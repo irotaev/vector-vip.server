@@ -25,7 +25,7 @@ $APPLICATION->SetPageProperty("keywords", 'ремонт квартир в мос
 
                 <section id="changebleContent" class="p_content">
                     <article id="home-article" class="av-block ">
-                        <header class="av-header"><span>О компании. Статья</span></header>
+                        <header class="av-header"><span>О компании</span></header>
 
                         <div class="av-content">
                             <?=$arResult['article']->detailText?>
