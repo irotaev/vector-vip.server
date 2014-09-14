@@ -1,0 +1,154 @@
+// Относится к middle section
+#middle {
+  background: url(../img/content/middle-scrolling-section/mss-bg.png) left top repeat;
+
+  .breadcrumbs {
+    @include breadcrumbs($av-content-bg);
+  }
+
+  .h1-header {
+
+    &.av-block {
+      margin: 0;
+      padding: 0;
+      border: 0;
+    }
+
+    .av-header {
+      width: 760px;
+      margin: 0 0 8px 0;
+      padding: 0;
+      height: 25px;
+      @include border-radius(0 0 10px 10px);
+      background-image: none;
+      border-color: #676767;
+
+      h1 {
+        margin-left: 15px;
+        line-height: 25px;
+        //color: $av-content-bg;
+        color: $header-red;
+        font-weight: bold;
+        font-size: 20px;
+        $__P: $header-red;
+        //@include text-shadow(-1px 0 $__P, 0 1px $__P, 1px 0 $__P, 0 -1px $__P);
+      }
+    }
+  }
+
+  .content-for-edit {
+    padding: 0 14px 14px 14px;
+  }
+
+  .scrolling-block {position: relative;}
+}
+
+// Для каждого изменяемого контейнера
+#container {
+  position: relative;
+  $ID-container-width: 740px;
+
+  .content {
+    padding: 0;
+  }
+
+  #main-img-wrapper {
+    width: 740px;
+    height: 202px;
+    background: url(../img/header/main-img.jpg) center top no-repeat;
+    border-top:2px solid #e20000;
+    border-bottom:2px solid #e20000;
+  }
+
+  #main-search {
+    margin: {top: 10px};
+
+    .search {
+      width: 546px;
+      height: 24px;
+      border-radius: 8px;
+      padding-left: 10px;
+      border: 4px solid $dark-red;
+      &:focus {border-color: $red;}
+    }
+
+    .search-btn {
+      margin-top: 2px;
+      margin-left: 10px;
+      width: 98px;
+      height: 39px;
+      background: url(../img/header/search-btn-sprites.png);
+      background-position: 0 0;
+      border: none;
+      cursor: pointer;
+
+      &:hover {
+        background-position: 0 -44px;
+      }
+    }
+  }
+
+  #changebleContent {
+    position: relative;
+    padding: 0 0 10px 0;
+    z-index: 10;
+    //height: 600px;
+    overflow: hidden;
+
+    #home-article {
+      @include main-text;
+    }
+
+    #home-gallery-preview, .photo-gallery {
+           &:after {content: "."; visibility: hidden; clear: both;}
+
+          .gallery-item {
+            padding: 1px;
+            border: 2px dotted $red;
+            width: 210px;
+            height: 141px;
+            -webkit-transition: all 0.5s ease-out;
+            -moz-transition: all 0.5s ease;
+            -o-transition: all 0.5s ease;
+             float: left;             
+             margin: 10px 0 0 8px;
+   
+            &:hover {
+              /*свечение*/
+              -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+              -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+              box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+            }
+          }
+
+        tr {
+          td:first-child {
+            border-left-width: 0;
+          }
+
+          &:first-child td { border-top: 0; }
+          &:last-child td { border-bottom: 0;}
+        }
+
+        img {
+          width: 210px;
+        }
+    }
+  }
+}
+
+
+// Специально для секций контента
+#main-border-left, #main-border-right {
+  height: 100%;
+  width: 13px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: url(../img/shared/main-border-left.png) left top repeat-y;
+  z-index: 100;
+}
+#main-border-right {
+  background: url(../img/shared/main-border-right.png) left top repeat-y;
+  left: 1011px;
+}

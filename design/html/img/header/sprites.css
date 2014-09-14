@@ -1,0 +1,16 @@
+.search-btn-notClicked, .search-btn-clicked{
+	background: url(sprites.png) no-repeat;
+}
+
+.search-btn-notClicked{
+	background-position: 0 0;
+	width: 98px;
+	height: 39px;
+}
+
+.search-btn-clicked{
+	background-position: 0 -44px ;
+	width: 98px;
+	height: 39px;
+}
+

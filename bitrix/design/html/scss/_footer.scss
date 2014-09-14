@@ -1,0 +1,86 @@
+#footer {
+  position: relative;
+  background: url(../img/shared/footer-bottom-bg.jpg) no-repeat center bottom;
+
+  .wrapper {
+    margin: 0 8px 8px 8px;
+    height: 48px;
+  }
+
+  .right-block, .left-block, .center-block {
+    position: relative;
+    float: left;
+    width: 461px;
+    height: inherit;
+    float: left;
+    background-color: $_grey;
+    border-top: 2px solid black;
+  }
+  .center-block {
+    width: 86px;
+    height: 94px;
+    bottom: 43px;
+    background-color: transparent;
+    background: url(../img/footer/slide-btn.png) center no-repeat;
+    border: none;
+  }
+
+  a {
+    color: $text-grey;
+    text-decoration: none;
+    &:hover {
+      color: $text-l-grey;
+    }
+  }
+
+  .info {
+    font-size: 11px;
+  }
+
+  #comand-btn {
+    position: absolute;
+    bottom: 10px;
+    left: 3px;
+    width: 258px;
+    height: 59px;
+    background: url(../img/footer/comand-button.png) top no-repeat;
+  }
+
+  #footer-copyright {
+    span {
+      color: $text-grey;
+      display: block;
+      float: left;
+      margin: 8px 5px 5px 10px;
+    }
+  }
+
+  .site-map, .lisence {
+    position: absolute;
+    top: 15px;
+
+    a {
+      border-bottom: 1px dashed $text-grey;
+      &:hover {border-bottom: none;}
+    }
+  }
+
+  .site-map {left: 280px;}
+  .lisence {left: 390px;}
+
+  #sosial-btns {
+    position: absolute;
+    top: 5px;
+    right: 12px;
+
+    img {
+      margin-left: 10px;
+      opacity:0.35;
+      filter:alpha(opacity=35);
+      &:hover {
+        opacity:1;
+        filter:alpha(opacity=100);
+      }
+    }
+  }
+}

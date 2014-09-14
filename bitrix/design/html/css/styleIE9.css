@@ -1,0 +1,7 @@
+#sideLeft .content #left-menu li .submenu li:hover,
+#header #login-header {
+    filter: none !important;
+}
+.left-menu-block-clone .submenu {
+    padding-left: 0px !important;
+}

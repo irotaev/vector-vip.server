@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <title></title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.css" type="text/css" media="screen, projection" />
+    <!--[if gte IE 9]><link rel="stylesheet" href="css/styleIE9.css" type="text/css" media="screen, projection" /><![endif]-->
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script type="text/javascript" src="js/underscore-min.js"></script>
+    <script type="text/javascript" src="js/backbone-min.js"></script>
+    <script type="text/javascript" src="js/test.js"></script>
+
+    <!-- Подключение подсказок -->
+    <link rel="stylesheet" href="css/tip-darkgray/tip-darkgray.css" type="text/css" media="screen, projection" />
+    <script type="text/javascript" src="js/jquery.poshytip.min.js"></script>
+    <!-- /// Подключение подсказок -->
+</head>
+
+<body>
+<div id="wrapper">
+
+    <header id="header">
+        <div class="wrapper">
+            <!--<div id="logo-text-header"></div>-->
+            <div id="head-menu-wrapper">
+                <div id="head-main-menu"></div>
+
+                <nav id="left-menu" class="left-menu-block">
+                    <ul class="mainMenu">
+                        <li class="info">
+                            <a href="#">О компании</a>
+                            <div class="submenu">
+                                <ul class="submenu-wrapper">
+                                    <li><div class="strelka"></div><a href="#">Подпункт 1</a></li>
+                                    <li><div class="strelka"></div><a href="#">Подпункт 2</a></li>
+                                    <li><div class="strelka"></div><a href="#">Подпункт 3</a></li>
+                                    <li><div class="strelka"></div><a href="#">Подпункт 4</a></li>
+                                    <li><div class="strelka"></div><a href="#">Подпункт 5</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="info">
+                            <a href="#">Клиентам</a>
+                            <div class="submenu">
+                                <ul class="submenu-wrapper">
+                                    <li><div class="strelka"></div><a href="#">Подпункт 1</a></li>
+                                    <li><div class="strelka"></div><a href="#">Подпункт 2</a></li>
+                                    <li><div class="strelka"></div><a href="#">Подпункт 3</a></li>
+                                    <li><div class="strelka"></div><a href="#">Подпункт 4</a></li>
+                                    <li><div class="strelka"></div><a href="#">Подпункт 5</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="info">
+                            <a href="#">Кабинет</a>
+                            <div class="submenu">
+                                <ul class="submenu-wrapper">
+                                    <li><div class="strelka"></div><a href="#">Подпункт 1</a></li>
+                                    <li><div class="strelka"></div><a href="#">Подпункт 2</a></li>
+                                    <li><div class="strelka"></div><a href="#">Подпункт 3</a></li>
+                                    <li><div class="strelka"></div><a href="#">Подпункт 4</a></li>
+                                    <li><div class="strelka"></div><a href="#">Подпункт 5</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="info">
+                        <a href="#">Каталог</a>
+                        <div class="submenu">
+                        <ul class="submenu-wrapper">
+                        <li><div class="strelka"></div><a href="#">Подпункт 1</a></li>
+                        <li><div class="strelka"></div><a href="#">Подпункт 2</a></li>
+                        <li><div class="strelka"></div><a href="#">Подпункт 3</a></li>
+                        <li><div class="strelka"></div><a href="#">Подпункт 4</a></li>
+                        <li><div class="strelka"></div><a href="#">Подпункт 5</a></li>
+                        </ul>
+                        </div>
+                        </li>
+                        <li class="info">
+                        <a href="#">Форум</a>
+                        <div class="submenu">
+                        <ul class="submenu-wrapper">
+                        <li><div class="strelka"></div><a href="#">Подпункт 1</a></li>
+                        <li><div class="strelka"></div><a href="#">Подпункт 2</a></li>
+                        <li><div class="strelka"></div><a href="#">Подпункт 3</a></li>
+                        <li><div class="strelka"></div><a href="#">Подпункт 4</a></li>
+                        <li><div class="strelka"></div><a href="#">Подпункт 5</a></li>
+                        </ul>
+                        </div>
+                        </li>
+                        <!--<li class="info">-->
+                        <!--<a href="#">Прайс-лист</a>-->
+                        <!--<div class="submenu">-->
+                        <!--<ul class="submenu-wrapper">-->
+                        <!--<li><div class="strelka"></div><a href="#">Подпункт 1</a></li>-->
+                        <!--<li><div class="strelka"></div><a href="#">Подпункт 2</a></li>-->
+                        <!--<li><div class="strelka"></div><a href="#">Подпункт 3</a></li>-->
+                        <!--<li><div class="strelka"></div><a href="#">Подпункт 4</a></li>-->
+                        <!--<li><div class="strelka"></div><a href="#">Подпункт 5</a></li>-->
+                        <!--</ul>-->
+                        <!--</div>-->
+                        <!--</li>-->
+                        <!--<li class="info">-->
+                        <!--<a href="#">Контакты</a>-->
+                        <!--<div class="submenu">-->
+                        <!--<ul class="submenu-wrapper">-->
+                        <!--<li><div class="strelka"></div><a href="#">Подпункт 1</a></li>-->
+                        <!--<li><div class="strelka"></div><a href="#">Подпункт 2</a></li>-->
+                        <!--<li><div class="strelka"></div><a href="#">Подпункт 3</a></li>-->
+                        <!--<li><div class="strelka"></div><a href="#">Подпункт 4</a></li>-->
+                        <!--<li><div class="strelka"></div><a href="#">Подпункт 5</a></li>-->
+                        <!--</ul>-->
+                        <!--</div>-->
+                        <!--</li>-->
+                    </ul>
+                </nav><!-- #left-menu-->
+            </div>
+
+            <div id="header-logo"></div>
+
+            <div id="header-telephone"></div>
+
+            <div id="login-header">
+            <form name="header-login">
+            <table>
+                <tr>
+                    <td><label class="info" for="login-box-header">логин:</label></td>
+                    <!--<td class="info reg-text"><a href="#">Регистрация</a></td>-->
+
+                    <td colspan="2"><input type="text" id="login-box-header" placeholder="Введите логин"/></td>
+                </tr>
+                <tr>
+                    <td><label class="info" for="password-box-header">пароль:</label></td>
+                    <td colspan="2"><input type="password" id="password-box-header" placeholder="Введите пароль"/></td>
+                </tr>
+                <tr>
+                    <td><input type="image" src="img/header/login-input.png" alt="Войти"/></td>
+                    <td class="info fogot-reg-text">
+                        <span>
+                            <a class="reg-text" href="#">Регистрация</a>
+                            <br/><a href="#">Забыли пароль?</a>
+                        </span>
+                    </td>
+                </tr>
+            </table>
+            </form>
+            </div><!--#login-header-->
+        </div><!--.wrapper-->
+    </header><!-- #header-->
+
+    <section id="middle">
+        <div id="middle-scrolling-section">
+            <div class="scrolling-block">
+                <div id="container">
+                    <div id="content">
+                        <div id="main-img-wrapper"></div>
+
+                        <div id="main-search" class="av-block">
+                            <div class="av-content">
+                                <form name="mainSearch">
+                                    <input type="text" class="search" placeholder="Введите слова для поиска" />
+                                    <input type="submit" class="search-btn" value=""/>
+                                </form>
+                            </div>
+                        </div><!-- #main-search-->
+
+                        <section id="changebleContent" class="p_content">
+                            <article id="home-article" class="av-block ">
+                                <header class="av-header"><span>О компании</span></header>
+
+                                <div class="av-content">
+                                Анализируя поисковый запрос «МАГАЗИН автозапчастей в Москве» в Яндексе и других поисковых системах мы заметили, что в первой десятке находятся не столько магазины по продаже автозапчастей, аккумуляторов, автомобильных аксессуаров, автомасел, автохимии, автоинструмента, автошин, колесных дисков, сколько информационные площадки, которые дают Вам информацию об автомагазинах в Москве и других городах России, причем не всегда полную и правдивую.
+                                Нам немножко стало обидно, и мы решили сделать все, чтобы наш интернет автомагазин запчастей попал на первую страницу поисковых систем не только в Москве, но и в России. Может быть, мы преследуем очень амбициозные цели, но нам очень хочется, потому, что мы осуществляем продажу автозапчастей, аккумуляторов, автомобильных аксессуаров, автомасел, автохимии, автоинструмента, автошин, колесных дисков от производителя.  Новый online проект КОМПАНИИ «ТЕХИНКОМ АВТОЗАПЧАСТЬ» ставит своей задачей продажу автозапчастей с минимальными усилиями для покупателя, а также предоставление потенциальным клиентам информации, необходимой для успешного выбора той или иной запасной части в режиме онлайн.
+                                Очень хочется, что бы данный проект стал хорошим подспорьем руководителям предприятий, начальникам отделов МТС работающим и строящим свой бизнес в автомобильной отрасли, для людей эксплуатирующих автомобильную технику, осуществляющих ремонт и обслуживание автомобильной техники.
+                                </div>
+                            </article>
+
+                            <div id="home-gallery-preview" class="av-block">
+                                <header class="av-header"><span>Наши работы</span></header>
+
+                                <div class="av-content">
+                                    <table class="gallery">
+                                        <tr>
+                                            <td><div><a href="#" title='пример строительных работ 1'><img src="img/content/home-gallery-img.png" alt=""/></a></div></td>
+                                            <td><div><a href="#" title='пример строительных работ 2'><img src="img/content/home-gallery-img.png" alt=""/></a></div></td>
+                                            <td><div><a href="#" title='пример строительных работ 3'><img src="img/content/home-gallery-img.png" alt=""/></a></div></td>
+                                        </tr>
+                                        <tr>
+                                            <td><div><a href="#" title='пример строительных работ 4'><img src="img/content/home-gallery-img.png" alt=""/></a></div></td>
+                                            <td><div><a href="#" title='пример строительных работ 5'><img src="img/content/home-gallery-img.png" alt=""/></a></div></td>
+                                            <td><div><a href="#" title='пример строительных работ 6'><img src="img/content/home-gallery-img.png" alt=""/></a></div></td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </section><!-- #changebleContent-->
+                    </div><!-- #content-->
+                </div><!-- #container-->
+
+                <aside id="sideLeft">
+                    <div class="scroll-down"></div>
+                    <div class="scroll-top"></div>
+                    <div class="menu-open-btn"></div>
+
+                    <div class="content">
+                        <div id="side-left-additional-content">
+                            <div class="inner-wrapper">
+                                <section id="aside-news" class="av-block">
+                                    <header class="av-header"><span>Новости</span></header>
+
+                                    <div class="av-content">
+                                        <article class="news-block">
+                                            <header>22.10.2012</header>
+
+                                            <div class="content">
+                                                <a href="">Группа ГАЗ начала продажи автомобилей ГАЗель Бизнес с ГБО</a> <br/>
+                                                Российские дилеры ГАЗ начали продажи новых модификаций автомобилей
+                                            </div>
+                                        </article>
+                                        <article class="news-block">
+                                            <header>22.10.2012</header>
+
+                                            <div class="content">
+                                                <a href="">Группа ГАЗ начала продажи автомобилей ГАЗель Бизнес с ГБО</a> <br/>
+                                                Российские дилеры ГАЗ начали продажи новых модификаций автомобилей
+                                            </div>
+                                        </article>
+                                        <!--<article class="news-block">-->
+                                            <!--<header>22.10.2012</header>-->
+
+                                            <!--<div class="content">-->
+                                                <!--<a href="">Группа ГАЗ начала продажи автомобилей ГАЗель Бизнес с ГБО</a> <br/>-->
+                                                <!--Российские дилеры ГАЗ начали продажи новых модификаций автомобилей-->
+                                            <!--</div>-->
+                                        <!--</article>-->
+                                    </div>
+                                </section><!-- #aside-news-->
+                            </div>
+                        </div>
+                    </div>
+                </aside><!-- #sideLeft -->
+
+                <div class="height-clear"></div>
+            </div><!--.scrolling-block-->
+        <div><!--#middle-scrolling-section-->
+    </section><!-- #middle-->
+
+</div><!-- #wrapper -->
+
+<footer id="footer">
+    <div class="wrapper">
+        <div class="left-block">
+            <div id="comand-btn"></div>
+            <div class="site-map"><a href="#">карта сайта</a></div>
+            <div class="lisence"><a href="#">лицензия</a></div>
+        </div>
+
+        <div class="center-block"></div>
+
+        <div class="right-block">
+            <div id="sosial-btns">
+                <a href="#"><img id="facebook" src="img/shared/facebook-btn.png" alt="facebook"/></a>
+                <a href="#"><img id="vkontakte" src="img/shared/vkontakte-btn.png" alt="vkontakte"/></a>
+                <a href="#"><img id="google" src="img/shared/google-btn.png" alt="google+"/></a>
+                <a href="#"><img id="mail" src="img/shared/mail-btn.png" alt="email"/></a>
+            </div>
+
+            <div id="footer-copyright" class="info">
+                <span class="copyright"><a href="#">Copyright (c) <br/> Все права защищены</a></span>
+                <span class="policy"><a href="#">Соглашение о <br/> конфиденциальности</a></span>
+            </div>
+        </div>
+    </div>
+</footer><!-- #footer -->
+
+</body>
+</html>

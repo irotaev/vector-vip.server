@@ -1,0 +1,124 @@
+@mixin info {
+  color: white;
+  font-size: 14px;
+  font-family: tahoma;
+}
+$top-zindex: 1000;
+// Colors
+$red: #ff0000;
+$dark-red: #750a0a;
+$header-red: #A82727;
+$border-color: #cdcdcd;
+$_grey: #1C1C1C;
+$text-grey: #555555;
+$text-l-grey: #918f8f;
+$av-block-bg: #252525;
+$av-content-bg: #151617;
+// Text sizes
+$small: 10px;
+@mixin news-block {
+  width: 156px;
+  height: 152px;
+  margin-bottom: 10px;
+  background: url(../img/shared/news-block/news-block-bg.png) center top no-repeat;
+  padding: 0 18px 18px 18px;
+  color: white;
+  border-top: 1px solid #333333;
+  margin: {left: auto; right: auto;}
+
+  header {
+    @include info;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+}
+
+@mixin main-text {
+  @include info;
+  font-size: 12px;
+}
+
+@mixin main-menu-btn {
+  background-color: #202020;
+  width: 262px;
+  height: 60px;
+  border: 1px solid #37383C;
+  border-radius: 5px;
+  box-shadow: 0px 0px 7px 0px #000;
+
+  &:hover {
+    background-image: url(../img/header/main-menu-bg-hover.png);
+  }
+
+  a {
+    padding: 5px 0 5px 80px;
+    text-align: left;
+    color: $border-color;
+    font-size: 30px;
+    font-family: impact;
+    line-height: 50px;
+    display: block;
+  }
+
+  .submenu a {
+    padding: 0;
+  }
+}
+
+/* Основные элементы
+*********************************************************************************/
+.info {@include info;}
+a {color: white;}
+.header {
+  @include info;
+  font-size: 18px;
+  background: url(../img/shared/header-strelka.png) left no-repeat;
+  color: $red;
+  padding-left: 18px;
+}
+::selection {
+  background: #e20000;
+}
+
+// Стилистика основного контентного блока
+.av-block {
+  border: 1px solid #474747;
+  border-radius: 5px;
+  padding: 7px 7px 0;
+  margin: 0 0 8px;
+  background-color: $av-block-bg;
+
+  .av-header {
+    height: 20px;
+    line-height: 20px;
+    background: url(../img/shared/header-strelka.png) left no-repeat;
+    background-position: 10px 12px;
+
+    span {
+      padding-left: 20px;
+      color: $header-red;
+      &::selection {background: white;}
+      font-size: 18px;
+      font-weight: bold;
+    }
+  }
+
+  .av-content, .av-header {
+    border: 1px solid #474747;
+    border-radius: 5px;
+    padding: 7px;
+    margin: 0 0 8px;
+    background-color: $av-content-bg;
+  }
+}
+
+input[type="text"], input[type="password"] {
+  border: 2px solid transparent;
+  padding-left: 4px;
+  &:focus {border-color: $dark-red;}
+}
+
+.height-clear {
+  clear: both;
+}

@@ -1,0 +1,190 @@
+#header {
+  position: relative;
+  background: url(../img/shared/header-top-bg.jpg) no-repeat center top;
+
+  .wrapper {
+    position: relative;
+    margin: 8px 8px 0 8px;
+    background-color: $_grey;
+    box-shadow: 0 1px 15px 1px #000;
+    height: inherit;
+  }
+
+  #head-menu-wrapper {
+    width: 280px;
+    
+    #head-main-menu {
+      position: absolute;
+      top: 0;
+      left: 0;
+      background: url(../img/header/menu-btn.png) no-repeat;
+      width: 283px;
+      height: 76px;
+    }
+
+    // Главное меню слева
+    #left-menu {
+      background-color: #1A1A1A;
+      position: relative;
+      width: 274px;
+      padding: 10px 0;
+      display: none;
+      top: 54px;
+      border: {bottom: 1px solid #252628; right: 1px solid #252628;}
+      border-radius: 0 0 10px 0;
+
+      li {
+        position: relative;
+        margin: 5px;
+        margin-bottom: 0;
+        @include main-menu-btn;
+
+        &:first-child {
+          margin-top: 0;
+        }
+
+        // Подменю
+        .submenu {
+          position: absolute;
+          display: none;
+          left: 100%;
+          padding-left: 5px;
+          top: 0;
+          z-index: 100;
+
+          .submenu-wrapper {
+            border: 1px solid $dark-red;
+            border-radius: 10px;
+            overflow: hidden;
+            background-color: black;
+          }
+
+          li {
+            position: relative;
+            width: 167px;
+            height: 42px;
+            padding-left: 26px;
+            //border: 1px solid $dark-red;
+            //border-top: none;
+            //&:first-child {border-top: 1px solid $dark-red;}
+            text-align: left;
+            background: none;
+            background-color: black;
+            border-radius: 10px;
+
+            .strelka {
+              position: absolute;
+              left: 8px;
+              top: 50%;
+              margin-top: -5px;
+
+              width: 0;
+              height: 0;
+              border-top: 6px solid transparent;
+              border-left: 10px solid $dark-red;
+              border-bottom: 6px solid transparent;
+            }
+
+            &:hover {
+              background: rgb(0,0,0); /* Old browsers */
+              /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+              background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwMDAwMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzdiMDgwOCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+              background: -moz-linear-gradient(top,  rgba(0,0,0,1) 0%, rgba(123,8,8,1) 50%, rgba(0,0,0,1) 100%); /* FF3.6+ */
+              background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,1)), color-stop(50%,rgba(123,8,8,1)), color-stop(100%,rgba(0,0,0,1))); /* Chrome,Safari4+ */
+              background: -webkit-linear-gradient(top,  rgba(0,0,0,1) 0%,rgba(123,8,8,1) 50%,rgba(0,0,0,1) 100%); /* Chrome10+,Safari5.1+ */
+              background: -o-linear-gradient(top,  rgba(0,0,0,1) 0%,rgba(123,8,8,1) 50%,rgba(0,0,0,1) 100%); /* Opera 11.10+ */
+              background: -ms-linear-gradient(top,  rgba(0,0,0,1) 0%,rgba(123,8,8,1) 50%,rgba(0,0,0,1) 100%); /* IE10+ */
+              background: linear-gradient(to bottom,  rgba(0,0,0,1) 0%,rgba(123,8,8,1) 50%,rgba(0,0,0,1) 100%); /* W3C */
+              filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000',GradientType=0 ); /* IE6-8 */
+            }
+
+            a {
+              line-height: 42px;
+            }
+          }
+        }
+        a {
+          display: block;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+
+  #header-logo {
+    position: absolute;
+    background: url(../img/header/vvip-logo.png) center no-repeat;
+    top: 8px;
+    left: 300px;
+    width: 153px;
+    height: 46px;
+  }
+
+  #header-telephone {
+    position: absolute;
+    background: url(../img/header/header-telephone.png) center no-repeat;
+    top: 18px;
+    left: 460px;
+    width: 281px;
+    height: 40px;
+  }
+
+  #login-header {
+    position: absolute;
+    top: 0;
+    right: 15px;
+    box-shadow: 0 1px 15px 1px #000;
+    background: #151617;
+    width: 210px;
+    height: 80px;
+    border-radius: 0 0 10px 10px;
+    border:1px solid #676767;
+    border-top-width: 0;
+    z-index: 10;
+    padding: 0px 14px 10px 14px;
+
+    table {
+      width: 100%;
+      height: 100%;
+
+      tr {
+        height: 25px;
+      }
+
+      td {
+        vertical-align: middle;
+      }
+
+      label {
+        color: $text-l-grey;
+      }
+
+      .reg-text, .fogot-reg-text {
+        text-align: right;
+        font-size: 13px;
+      }
+      .reg-text {
+        font-weight: bold;
+        color: $text-l-grey !important;
+        &:hover {
+          -webkit-stroke-width: 5.3px;
+          -webkit-stroke-color: #e20000;
+          -webkit-fill-color: #e20000;
+          text-shadow: 1px 0px 20px #e20000;
+          -webkit-transition: width 0.3s; /*Safari & Chrome*/
+          transition: width 0.3s;
+          -moz-transition: width 0.3s; /* Firefox 4 */
+          -o-transition: width 0.3s; /* Opera */
+        }
+      }
+      .fogot-reg-text a {
+        color: #e6b681;
+      }
+
+      #login-box-header, #password-box-header {
+        width: 100%;
+        margin-bottom: 0px;
+      }
+    }
+  }
+}

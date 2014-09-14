@@ -1,0 +1,2507 @@
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+error
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+error
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+error
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+error
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+buser false
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+error
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+buser false
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+error
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+buser array (
+  'ID' => '2',
+  'USER_ID' => '810671',
+  'ALIAS' => '',
+  'DESCRIPTION' => '',
+  'AVATAR' => '872264',
+  'INTERESTS' => '',
+  'ALLOW_POST' => 'Y',
+  'LAST_VISIT' => NULL,
+  'DATE_REG' => '02.08.2012 15:22:01',
+)
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+buser array (
+  'ID' => '2',
+  'USER_ID' => '810671',
+  'ALIAS' => '',
+  'DESCRIPTION' => '',
+  'AVATAR' => NULL,
+  'INTERESTS' => '',
+  'ALLOW_POST' => 'Y',
+  'LAST_VISIT' => NULL,
+  'DATE_REG' => '02.08.2012 15:22:01',
+)
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+noerror 
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+buser array (
+  'ID' => '2',
+  'USER_ID' => '810671',
+  'ALIAS' => '',
+  'DESCRIPTION' => '',
+  'AVATAR' => NULL,
+  'INTERESTS' => '',
+  'ALLOW_POST' => 'Y',
+  'LAST_VISIT' => NULL,
+  'DATE_REG' => '02.08.2012 15:22:01',
+)
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+noerror 
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+buser false
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+error
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+buser false
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+buser array (
+  'ID' => '3',
+  'USER_ID' => '810672',
+  'ALIAS' => '',
+  'DESCRIPTION' => '',
+  'AVATAR' => NULL,
+  'INTERESTS' => '',
+  'ALLOW_POST' => 'Y',
+  'LAST_VISIT' => NULL,
+  'DATE_REG' => '00.00.0000 00:00:00',
+)
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/161745_100001669435326_2208425_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+buser false
+picure /var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg
+pictureArray array (
+  'name' => 'e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'size' => 13840,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/e3a67b719a65051322f2024e3c8a04cd.jpg',
+  'type' => 'image/jpeg',
+)
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/static-ak/rsrc.php/v2/yo/r/UlIqmHJn-SK.gif',
+  ),
+   '_picture' => NULL,
+))
+buser array (
+  'ID' => '4',
+  'USER_ID' => '810673',
+  'ALIAS' => '',
+  'DESCRIPTION' => '',
+  'AVATAR' => NULL,
+  'INTERESTS' => '',
+  'ALLOW_POST' => 'Y',
+  'LAST_VISIT' => NULL,
+  'DATE_REG' => '00.00.0000 00:00:00',
+)
+picure /var/wwwmhealth/bitrix/cache/social_pictures/369a563d15ccaf533fed4c29df96bfa7.jpg
+pictureArray array (
+  'name' => '369a563d15ccaf533fed4c29df96bfa7.jpg',
+  'size' => 978,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/369a563d15ccaf533fed4c29df96bfa7.jpg',
+  'type' => 'image/gif',
+)
+---finish
+---start
+---start
+---start
+---start
+---start
+MH_Social_Twitter::__set_state(array(
+   '_twitter' => 
+  Twitter_Twitter::__set_state(array(
+     'params' => 
+    array (
+    ),
+     'headers' => 
+    array (
+      'Authorization' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="8a32a814e0ea135c6ee2dc73be16bccc", oauth_signature="q6CAm4LLumjdSwY8unFbtp1eWXA%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915137", oauth_version="1.0"',
+      'Expect' => '',
+    ),
+     'auto_fixed_time' => false,
+     'buffer' => NULL,
+     'config' => 
+    array (
+      'user_agent' => 'tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth',
+      'use_ssl' => true,
+      'host' => 'api.twitter.com',
+      'consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'consumer_secret' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ',
+      'user_token' => '',
+      'user_secret' => '',
+      'force_nonce' => false,
+      'nonce' => '8a32a814e0ea135c6ee2dc73be16bccc',
+      'force_timestamp' => false,
+      'timestamp' => 1343915137,
+      'oauth_version' => '1.0',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'curl_connecttimeout' => 30,
+      'curl_timeout' => 10,
+      'curl_ssl_verifyhost' => 2,
+      'curl_ssl_verifypeer' => true,
+      'curl_cainfo' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter/cacert.pem',
+      'curl_capath' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter',
+      'curl_followlocation' => false,
+      'curl_proxy' => false,
+      'curl_proxyuserpwd' => false,
+      'curl_encoding' => '',
+      'is_streaming' => false,
+      'streaming_eol' => '
+',
+      'streaming_metrics_interval' => 60,
+      'as_header' => true,
+      'debug' => false,
+      'multipart' => false,
+    ),
+     'method' => 'POST',
+     'url' => 'https://api.twitter.com/1/users/lookup.json',
+     'signing_params' => 'oauth_consumer_key=Qd39wEeD4CLhikrHBH76wA&oauth_nonce=8a32a814e0ea135c6ee2dc73be16bccc&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1343915137&oauth_version=1.0&user_id=296811615',
+     'auth_params' => 
+    array (
+      'oauth_consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'oauth_nonce' => '8a32a814e0ea135c6ee2dc73be16bccc',
+      'oauth_signature' => 'q6CAm4LLumjdSwY8unFbtp1eWXA%3D',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'oauth_timestamp' => '1343915137',
+      'oauth_version' => '1.0',
+    ),
+     'request_params' => 'user_id=296811615',
+     'base_string' => 'POST&https%3A%2F%2Fapi.twitter.com%2F1%2Fusers%2Flookup.json&oauth_consumer_key%3DQd39wEeD4CLhikrHBH76wA%26oauth_nonce%3D8a32a814e0ea135c6ee2dc73be16bccc%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1343915137%26oauth_version%3D1.0%26user_id%3D296811615',
+     'signing_key' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ&',
+     'auth_header' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="8a32a814e0ea135c6ee2dc73be16bccc", oauth_signature="q6CAm4LLumjdSwY8unFbtp1eWXA%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915137", oauth_version="1.0"',
+     'response' => 
+    array (
+      'headers' => 
+      array (
+        'date' => 'Thu, 02 Aug 2012 13:44:27 GMT',
+        'status' => '200 OK',
+        'expires' => 'Tue, 31 Mar 1981 05:00:00 GMT',
+        'last_modified' => 'Thu, 02 Aug 2012 13:44:27 GMT',
+        'x_transaction_mask' => 'a6183ffa5f8ca943ff1b53b5644ef11444936dae',
+        'pragma' => 'no-cache',
+        'x_ratelimit_class' => 'api',
+        'etag' => '"f96b415fd2775032711c8232a4350b32"',
+        'content_type' => 'application/json; charset=utf-8',
+        'x_transaction' => '64e98df27c90a3b7',
+        'x_ratelimit_remaining' => '148',
+        'cache_control' => 'no-cache, no-store, must-revalidate, pre-check=0, post-check=0',
+        'x_runtime' => '0.07190',
+        'x_frame_options' => 'SAMEORIGIN',
+        'x_mid' => 'c4c78861acf582ee3d04ef00670491da16968e54',
+        'x_ratelimit_limit' => '150',
+        'x_warning' => 'Invalid OAuth credentials detected',
+        'x_ratelimit_reset' => '1343918665',
+        'set_cookie' => '_twitter_sess=BAh7CToPY3JlYXRlZF9hdGwrCMeJlOc4AToHaWQiJTdlMzY5MzcxOGIzNzhm%250AZGJlYTRiNjRmN2IzOTgxMWE4IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy%250AOjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsAOgxjc3JmX2lkIiViN2U2%250AODFlZTI4ZjgyZDM2NTFlZGIxZDg5NmM4NzFhMg%253D%253D--29be527f88428e3351875c9c2d4dd152c9c91e66; domain=.twitter.com; path=/; HttpOnly',
+        'vary' => 'Accept-Encoding',
+        'content_encoding' => 'gzip',
+        'content_length' => '763',
+        'server' => 'tfe',
+      ),
+      'code' => 200,
+      'response' => '[{"id":296811615,"url":null,"created_at":"Wed May 11 12:58:25 +0000 2011","contributors_enabled":false,"screen_name":"RomanGaleev","profile_background_color":"C0DEED","following":null,"geo_enabled":false,"profile_image_url":"http:\\/\\/a0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","utc_offset":null,"followers_count":4,"profile_image_url_https":"https:\\/\\/si0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","profile_background_image_url":"http:\\/\\/a0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","name":"\\u0420\\u043e\\u043c\\u0430\\u043d \\u0413\\u0430\\u043b\\u0435\\u0435\\u0432","time_zone":null,"default_profile":true,"show_all_inline_media":false,"statuses_count":5,"profile_link_color":"0084B4","location":"","follow_request_sent":null,"friends_count":2,"protected":false,"profile_use_background_image":true,"listed_count":0,"profile_text_color":"333333","description":"","notifications":null,"profile_sidebar_border_color":"C0DEED","verified":false,"is_translator":false,"lang":"ru","id_str":"296811615","profile_background_tile":false,"status":{"in_reply_to_screen_name":"EnglishtownRu","id_str":"215455615840034816","coordinates":null,"geo":null,"retweeted":false,"in_reply_to_user_id":305572158,"retweet_count":0,"in_reply_to_status_id":215451175347175424,"favorited":false,"in_reply_to_status_id_str":"215451175347175424","truncated":false,"place":null,"source":"web","in_reply_to_user_id_str":"305572158","id":215455615840034816,"created_at":"Wed Jun 20 14:46:36 +0000 2012","contributors":null,"text":"@EnglishtownRu \\u0441\\u043f\\u0430\\u0441\\u0438\\u0431\\u043e, \\u0432\\u0441\\u0451 \\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u0435\\u0442 :)"},"default_profile_image":false,"profile_sidebar_fill_color":"DDEEF6","profile_background_image_url_https":"https:\\/\\/si0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","favourites_count":0}]',
+      'info' => 
+      array (
+        'url' => 'https://api.twitter.com/1/users/lookup.json',
+        'content_type' => 'application/json; charset=utf-8',
+        'http_code' => 200,
+        'header_size' => 1350,
+        'request_size' => 513,
+        'filetime' => -1,
+        'ssl_verify_result' => 0,
+        'redirect_count' => 0,
+        'total_time' => 2.3772,
+        'namelookup_time' => 0.001233,
+        'connect_time' => 0.237713,
+        'pretransfer_time' => 2.022255,
+        'size_upload' => 17,
+        'size_download' => 763,
+        'speed_download' => 320,
+        'speed_upload' => 7,
+        'download_content_length' => 763,
+        'upload_content_length' => 17,
+        'starttransfer_time' => 2.376627,
+        'redirect_time' => 0,
+        'certinfo' => 
+        array (
+        ),
+        'request_header' => 'POST /1/users/lookup.json HTTP/1.1
+User-Agent: tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth
+Host: api.twitter.com
+Accept: */*
+Accept-Encoding: deflate, gzip
+Authorization: OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="8a32a814e0ea135c6ee2dc73be16bccc", oauth_signature="q6CAm4LLumjdSwY8unFbtp1eWXA%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915137", oauth_version="1.0"
+Content-Length: 17
+Content-Type: application/x-www-form-urlencoded
+
+',
+      ),
+      'error' => '',
+      'errno' => 0,
+    ),
+  )),
+   '_userId' => '296811615',
+   '_userInfo' => 
+  array (
+    0 => 
+    array (
+      'id' => 296811615,
+      'url' => NULL,
+      'created_at' => 'Wed May 11 12:58:25 +0000 2011',
+      'contributors_enabled' => false,
+      'screen_name' => 'RomanGaleev',
+      'profile_background_color' => 'C0DEED',
+      'following' => NULL,
+      'geo_enabled' => false,
+      'profile_image_url' => 'http://a0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+      'utc_offset' => NULL,
+      'followers_count' => 4,
+      'profile_image_url_https' => 'https://si0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+      'profile_background_image_url' => 'http://a0.twimg.com/images/themes/theme1/bg.png',
+      'name' => 'Роман Галеев',
+      'time_zone' => NULL,
+      'default_profile' => true,
+      'show_all_inline_media' => false,
+      'statuses_count' => 5,
+      'profile_link_color' => '0084B4',
+      'location' => '',
+      'follow_request_sent' => NULL,
+      'friends_count' => 2,
+      'protected' => false,
+      'profile_use_background_image' => true,
+      'listed_count' => 0,
+      'profile_text_color' => '333333',
+      'description' => '',
+      'notifications' => NULL,
+      'profile_sidebar_border_color' => 'C0DEED',
+      'verified' => false,
+      'is_translator' => false,
+      'lang' => 'ru',
+      'id_str' => '296811615',
+      'profile_background_tile' => false,
+      'status' => 
+      array (
+        'in_reply_to_screen_name' => 'EnglishtownRu',
+        'id_str' => '215455615840034816',
+        'coordinates' => NULL,
+        'geo' => NULL,
+        'retweeted' => false,
+        'in_reply_to_user_id' => 305572158,
+        'retweet_count' => 0,
+        'in_reply_to_status_id' => 2.1545117534718E+17,
+        'favorited' => false,
+        'in_reply_to_status_id_str' => '215451175347175424',
+        'truncated' => false,
+        'place' => NULL,
+        'source' => 'web',
+        'in_reply_to_user_id_str' => '305572158',
+        'id' => 2.1545561584003E+17,
+        'created_at' => 'Wed Jun 20 14:46:36 +0000 2012',
+        'contributors' => NULL,
+        'text' => '@EnglishtownRu спасибо, всё работает :)',
+      ),
+      'default_profile_image' => false,
+      'profile_sidebar_fill_color' => 'DDEEF6',
+      'profile_background_image_url_https' => 'https://si0.twimg.com/images/themes/theme1/bg.png',
+      'favourites_count' => 0,
+    ),
+  ),
+   '_picture' => NULL,
+))
+buser false
+---finish
+---start
+MH_Social_Twitter::__set_state(array(
+   '_twitter' => 
+  Twitter_Twitter::__set_state(array(
+     'params' => 
+    array (
+    ),
+     'headers' => 
+    array (
+      'Authorization' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="ab6c9c05359fae444e2094eaea56e215", oauth_signature="tZZptxbRoW110xpj6O77J1Vd18Q%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915332", oauth_version="1.0"',
+      'Expect' => '',
+    ),
+     'auto_fixed_time' => false,
+     'buffer' => NULL,
+     'config' => 
+    array (
+      'user_agent' => 'tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth',
+      'use_ssl' => true,
+      'host' => 'api.twitter.com',
+      'consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'consumer_secret' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ',
+      'user_token' => '',
+      'user_secret' => '',
+      'force_nonce' => false,
+      'nonce' => 'ab6c9c05359fae444e2094eaea56e215',
+      'force_timestamp' => false,
+      'timestamp' => 1343915332,
+      'oauth_version' => '1.0',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'curl_connecttimeout' => 30,
+      'curl_timeout' => 10,
+      'curl_ssl_verifyhost' => 2,
+      'curl_ssl_verifypeer' => true,
+      'curl_cainfo' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter/cacert.pem',
+      'curl_capath' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter',
+      'curl_followlocation' => false,
+      'curl_proxy' => false,
+      'curl_proxyuserpwd' => false,
+      'curl_encoding' => '',
+      'is_streaming' => false,
+      'streaming_eol' => '
+',
+      'streaming_metrics_interval' => 60,
+      'as_header' => true,
+      'debug' => false,
+      'multipart' => false,
+    ),
+     'method' => 'POST',
+     'url' => 'https://api.twitter.com/1/users/lookup.json',
+     'signing_params' => 'oauth_consumer_key=Qd39wEeD4CLhikrHBH76wA&oauth_nonce=ab6c9c05359fae444e2094eaea56e215&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1343915332&oauth_version=1.0&user_id=296811615',
+     'auth_params' => 
+    array (
+      'oauth_consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'oauth_nonce' => 'ab6c9c05359fae444e2094eaea56e215',
+      'oauth_signature' => 'tZZptxbRoW110xpj6O77J1Vd18Q%3D',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'oauth_timestamp' => '1343915332',
+      'oauth_version' => '1.0',
+    ),
+     'request_params' => 'user_id=296811615',
+     'base_string' => 'POST&https%3A%2F%2Fapi.twitter.com%2F1%2Fusers%2Flookup.json&oauth_consumer_key%3DQd39wEeD4CLhikrHBH76wA%26oauth_nonce%3Dab6c9c05359fae444e2094eaea56e215%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1343915332%26oauth_version%3D1.0%26user_id%3D296811615',
+     'signing_key' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ&',
+     'auth_header' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="ab6c9c05359fae444e2094eaea56e215", oauth_signature="tZZptxbRoW110xpj6O77J1Vd18Q%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915332", oauth_version="1.0"',
+     'response' => 
+    array (
+      'headers' => 
+      array (
+        'date' => 'Thu, 02 Aug 2012 13:47:40 GMT',
+        'status' => '200 OK',
+        'etag' => '"f96b415fd2775032711c8232a4350b32"',
+        'expires' => 'Tue, 31 Mar 1981 05:00:00 GMT',
+        'cache_control' => 'no-cache, no-store, must-revalidate, pre-check=0, post-check=0',
+        'x_runtime' => '0.02707',
+        'x_transaction' => '4b36722316f38615',
+        'x_ratelimit_class' => 'api',
+        'x_ratelimit_reset' => '1343918665',
+        'pragma' => 'no-cache',
+        'x_transaction_mask' => 'a6183ffa5f8ca943ff1b53b5644ef11444936dae',
+        'content_type' => 'application/json; charset=utf-8',
+        'x_frame_options' => 'SAMEORIGIN',
+        'x_mid' => '7bfea910b6f2864697c1160a5f947c7807cd1167',
+        'x_ratelimit_limit' => '150',
+        'x_ratelimit_remaining' => '145',
+        'last_modified' => 'Thu, 02 Aug 2012 13:47:40 GMT',
+        'x_warning' => 'Invalid OAuth credentials detected',
+        'set_cookie' => '_twitter_sess=BAh7CToPY3JlYXRlZF9hdGwrCMd7l%252Bc4AToHaWQiJTQ3MjFjNWRiMDYzMTgx%250AZmFhMzAwYTYyYTZjNTNjYmMzIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy%250AOjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsAOgxjc3JmX2lkIiU1MDJm%250AMGEyNjFmZDkyNjg1OWRhMGYxNDBiYTM5OWU5Yw%253D%253D--76cdcf35fb64270ff5cf1ed5593bb7c23a55f4d9; domain=.twitter.com; path=/; HttpOnly',
+        'vary' => 'Accept-Encoding',
+        'content_encoding' => 'gzip',
+        'content_length' => '763',
+        'server' => 'tfe',
+      ),
+      'code' => 200,
+      'response' => '[{"id":296811615,"url":null,"created_at":"Wed May 11 12:58:25 +0000 2011","contributors_enabled":false,"screen_name":"RomanGaleev","profile_background_color":"C0DEED","following":null,"geo_enabled":false,"profile_image_url":"http:\\/\\/a0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","utc_offset":null,"followers_count":4,"profile_image_url_https":"https:\\/\\/si0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","profile_background_image_url":"http:\\/\\/a0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","name":"\\u0420\\u043e\\u043c\\u0430\\u043d \\u0413\\u0430\\u043b\\u0435\\u0435\\u0432","time_zone":null,"default_profile":true,"show_all_inline_media":false,"statuses_count":5,"profile_link_color":"0084B4","location":"","follow_request_sent":null,"friends_count":2,"protected":false,"profile_use_background_image":true,"listed_count":0,"profile_text_color":"333333","description":"","notifications":null,"profile_sidebar_border_color":"C0DEED","verified":false,"is_translator":false,"lang":"ru","id_str":"296811615","profile_background_tile":false,"status":{"in_reply_to_screen_name":"EnglishtownRu","id_str":"215455615840034816","coordinates":null,"geo":null,"retweeted":false,"in_reply_to_user_id":305572158,"retweet_count":0,"in_reply_to_status_id":215451175347175424,"favorited":false,"in_reply_to_status_id_str":"215451175347175424","truncated":false,"place":null,"source":"web","in_reply_to_user_id_str":"305572158","id":215455615840034816,"created_at":"Wed Jun 20 14:46:36 +0000 2012","contributors":null,"text":"@EnglishtownRu \\u0441\\u043f\\u0430\\u0441\\u0438\\u0431\\u043e, \\u0432\\u0441\\u0451 \\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u0435\\u0442 :)"},"default_profile_image":false,"profile_sidebar_fill_color":"DDEEF6","profile_background_image_url_https":"https:\\/\\/si0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","favourites_count":0}]',
+      'info' => 
+      array (
+        'url' => 'https://api.twitter.com/1/users/lookup.json',
+        'content_type' => 'application/json; charset=utf-8',
+        'http_code' => 200,
+        'header_size' => 1353,
+        'request_size' => 513,
+        'filetime' => -1,
+        'ssl_verify_result' => 0,
+        'redirect_count' => 0,
+        'total_time' => 1.016704,
+        'namelookup_time' => 0.002205,
+        'connect_time' => 0.223688,
+        'pretransfer_time' => 0.732517,
+        'size_upload' => 17,
+        'size_download' => 763,
+        'speed_download' => 750,
+        'speed_upload' => 16,
+        'download_content_length' => 763,
+        'upload_content_length' => 17,
+        'starttransfer_time' => 1.015847,
+        'redirect_time' => 0,
+        'certinfo' => 
+        array (
+        ),
+        'request_header' => 'POST /1/users/lookup.json HTTP/1.1
+User-Agent: tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth
+Host: api.twitter.com
+Accept: */*
+Accept-Encoding: deflate, gzip
+Authorization: OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="ab6c9c05359fae444e2094eaea56e215", oauth_signature="tZZptxbRoW110xpj6O77J1Vd18Q%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915332", oauth_version="1.0"
+Content-Length: 17
+Content-Type: application/x-www-form-urlencoded
+
+',
+      ),
+      'error' => '',
+      'errno' => 0,
+    ),
+  )),
+   '_userId' => '296811615',
+   '_userInfo' => 
+  array (
+    0 => 
+    array (
+      'id' => 296811615,
+      'url' => NULL,
+      'created_at' => 'Wed May 11 12:58:25 +0000 2011',
+      'contributors_enabled' => false,
+      'screen_name' => 'RomanGaleev',
+      'profile_background_color' => 'C0DEED',
+      'following' => NULL,
+      'geo_enabled' => false,
+      'profile_image_url' => 'http://a0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+      'utc_offset' => NULL,
+      'followers_count' => 4,
+      'profile_image_url_https' => 'https://si0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+      'profile_background_image_url' => 'http://a0.twimg.com/images/themes/theme1/bg.png',
+      'name' => 'Роман Галеев',
+      'time_zone' => NULL,
+      'default_profile' => true,
+      'show_all_inline_media' => false,
+      'statuses_count' => 5,
+      'profile_link_color' => '0084B4',
+      'location' => '',
+      'follow_request_sent' => NULL,
+      'friends_count' => 2,
+      'protected' => false,
+      'profile_use_background_image' => true,
+      'listed_count' => 0,
+      'profile_text_color' => '333333',
+      'description' => '',
+      'notifications' => NULL,
+      'profile_sidebar_border_color' => 'C0DEED',
+      'verified' => false,
+      'is_translator' => false,
+      'lang' => 'ru',
+      'id_str' => '296811615',
+      'profile_background_tile' => false,
+      'status' => 
+      array (
+        'in_reply_to_screen_name' => 'EnglishtownRu',
+        'id_str' => '215455615840034816',
+        'coordinates' => NULL,
+        'geo' => NULL,
+        'retweeted' => false,
+        'in_reply_to_user_id' => 305572158,
+        'retweet_count' => 0,
+        'in_reply_to_status_id' => 2.1545117534718E+17,
+        'favorited' => false,
+        'in_reply_to_status_id_str' => '215451175347175424',
+        'truncated' => false,
+        'place' => NULL,
+        'source' => 'web',
+        'in_reply_to_user_id_str' => '305572158',
+        'id' => 2.1545561584003E+17,
+        'created_at' => 'Wed Jun 20 14:46:36 +0000 2012',
+        'contributors' => NULL,
+        'text' => '@EnglishtownRu спасибо, всё работает :)',
+      ),
+      'default_profile_image' => false,
+      'profile_sidebar_fill_color' => 'DDEEF6',
+      'profile_background_image_url_https' => 'https://si0.twimg.com/images/themes/theme1/bg.png',
+      'favourites_count' => 0,
+    ),
+  ),
+   '_picture' => NULL,
+))
+buser false
+---start
+MH_Social_Twitter::__set_state(array(
+   '_twitter' => 
+  Twitter_Twitter::__set_state(array(
+     'params' => 
+    array (
+    ),
+     'headers' => 
+    array (
+      'Authorization' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="7ea01b27b9e394218b03467e3118eec0", oauth_signature="3BlQUTCgPBc7fDInCF6xTqecREA%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915400", oauth_version="1.0"',
+      'Expect' => '',
+    ),
+     'auto_fixed_time' => false,
+     'buffer' => NULL,
+     'config' => 
+    array (
+      'user_agent' => 'tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth',
+      'use_ssl' => true,
+      'host' => 'api.twitter.com',
+      'consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'consumer_secret' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ',
+      'user_token' => '',
+      'user_secret' => '',
+      'force_nonce' => false,
+      'nonce' => '7ea01b27b9e394218b03467e3118eec0',
+      'force_timestamp' => false,
+      'timestamp' => 1343915400,
+      'oauth_version' => '1.0',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'curl_connecttimeout' => 30,
+      'curl_timeout' => 10,
+      'curl_ssl_verifyhost' => 2,
+      'curl_ssl_verifypeer' => true,
+      'curl_cainfo' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter/cacert.pem',
+      'curl_capath' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter',
+      'curl_followlocation' => false,
+      'curl_proxy' => false,
+      'curl_proxyuserpwd' => false,
+      'curl_encoding' => '',
+      'is_streaming' => false,
+      'streaming_eol' => '
+',
+      'streaming_metrics_interval' => 60,
+      'as_header' => true,
+      'debug' => false,
+      'multipart' => false,
+    ),
+     'method' => 'POST',
+     'url' => 'https://api.twitter.com/1/users/lookup.json',
+     'signing_params' => 'oauth_consumer_key=Qd39wEeD4CLhikrHBH76wA&oauth_nonce=7ea01b27b9e394218b03467e3118eec0&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1343915400&oauth_version=1.0&user_id=296811615',
+     'auth_params' => 
+    array (
+      'oauth_consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'oauth_nonce' => '7ea01b27b9e394218b03467e3118eec0',
+      'oauth_signature' => '3BlQUTCgPBc7fDInCF6xTqecREA%3D',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'oauth_timestamp' => '1343915400',
+      'oauth_version' => '1.0',
+    ),
+     'request_params' => 'user_id=296811615',
+     'base_string' => 'POST&https%3A%2F%2Fapi.twitter.com%2F1%2Fusers%2Flookup.json&oauth_consumer_key%3DQd39wEeD4CLhikrHBH76wA%26oauth_nonce%3D7ea01b27b9e394218b03467e3118eec0%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1343915400%26oauth_version%3D1.0%26user_id%3D296811615',
+     'signing_key' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ&',
+     'auth_header' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="7ea01b27b9e394218b03467e3118eec0", oauth_signature="3BlQUTCgPBc7fDInCF6xTqecREA%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915400", oauth_version="1.0"',
+     'response' => 
+    array (
+      'headers' => 
+      array (
+        'date' => 'Thu, 02 Aug 2012 13:48:48 GMT',
+        'status' => '200 OK',
+        'x_transaction_mask' => 'a6183ffa5f8ca943ff1b53b5644ef11444936dae',
+        'x_mid' => '125e21888b1c98ad05e9df9642e373762f3ba485',
+        'expires' => 'Tue, 31 Mar 1981 05:00:00 GMT',
+        'x_warning' => 'Invalid OAuth credentials detected',
+        'x_frame_options' => 'SAMEORIGIN',
+        'x_runtime' => '0.02615',
+        'content_type' => 'application/json; charset=utf-8',
+        'last_modified' => 'Thu, 02 Aug 2012 13:48:48 GMT',
+        'x_transaction' => '530a2f638218ff7d',
+        'x_ratelimit_class' => 'api',
+        'x_ratelimit_remaining' => '143',
+        'x_ratelimit_reset' => '1343918665',
+        'cache_control' => 'no-cache, no-store, must-revalidate, pre-check=0, post-check=0',
+        'x_ratelimit_limit' => '150',
+        'etag' => '"f96b415fd2775032711c8232a4350b32"',
+        'pragma' => 'no-cache',
+        'set_cookie' => '_twitter_sess=BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCL2FmOc4AToHaWQiJTdm%250AN2M5NGU1OTkyYjhiZGYzYjE5ZTNiNjY0ZWZhYjE0Ogxjc3JmX2lkIiVlOWEw%250AYjc2OGRkMjM4M2EwZGJmZDdmOWI2NWMzODMyNg%253D%253D--1ac753cc63406e0605ef4c17365a7d511683281c; domain=.twitter.com; path=/; HttpOnly',
+        'vary' => 'Accept-Encoding',
+        'content_encoding' => 'gzip',
+        'content_length' => '763',
+        'server' => 'tfe',
+      ),
+      'code' => 200,
+      'response' => '[{"id":296811615,"url":null,"created_at":"Wed May 11 12:58:25 +0000 2011","contributors_enabled":false,"screen_name":"RomanGaleev","profile_background_color":"C0DEED","following":null,"geo_enabled":false,"profile_image_url":"http:\\/\\/a0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","utc_offset":null,"followers_count":4,"profile_image_url_https":"https:\\/\\/si0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","profile_background_image_url":"http:\\/\\/a0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","name":"\\u0420\\u043e\\u043c\\u0430\\u043d \\u0413\\u0430\\u043b\\u0435\\u0435\\u0432","time_zone":null,"default_profile":true,"show_all_inline_media":false,"statuses_count":5,"profile_link_color":"0084B4","location":"","follow_request_sent":null,"friends_count":2,"protected":false,"profile_use_background_image":true,"listed_count":0,"profile_text_color":"333333","description":"","notifications":null,"profile_sidebar_border_color":"C0DEED","verified":false,"is_translator":false,"lang":"ru","id_str":"296811615","profile_background_tile":false,"status":{"in_reply_to_screen_name":"EnglishtownRu","id_str":"215455615840034816","coordinates":null,"geo":null,"retweeted":false,"in_reply_to_user_id":305572158,"retweet_count":0,"in_reply_to_status_id":215451175347175424,"favorited":false,"in_reply_to_status_id_str":"215451175347175424","truncated":false,"place":null,"source":"web","in_reply_to_user_id_str":"305572158","id":215455615840034816,"created_at":"Wed Jun 20 14:46:36 +0000 2012","contributors":null,"text":"@EnglishtownRu \\u0441\\u043f\\u0430\\u0441\\u0438\\u0431\\u043e, \\u0432\\u0441\\u0451 \\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u0435\\u0442 :)"},"default_profile_image":false,"profile_sidebar_fill_color":"DDEEF6","profile_background_image_url_https":"https:\\/\\/si0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","favourites_count":0}]',
+      'info' => 
+      array (
+        'url' => 'https://api.twitter.com/1/users/lookup.json',
+        'content_type' => 'application/json; charset=utf-8',
+        'http_code' => 200,
+        'header_size' => 1349,
+        'request_size' => 513,
+        'filetime' => -1,
+        'ssl_verify_result' => 0,
+        'redirect_count' => 0,
+        'total_time' => 0.916476,
+        'namelookup_time' => 0.001279,
+        'connect_time' => 0.210274,
+        'pretransfer_time' => 0.666109,
+        'size_upload' => 17,
+        'size_download' => 763,
+        'speed_download' => 832,
+        'speed_upload' => 18,
+        'download_content_length' => 763,
+        'upload_content_length' => 17,
+        'starttransfer_time' => 0.915812,
+        'redirect_time' => 0,
+        'certinfo' => 
+        array (
+        ),
+        'request_header' => 'POST /1/users/lookup.json HTTP/1.1
+User-Agent: tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth
+Host: api.twitter.com
+Accept: */*
+Accept-Encoding: deflate, gzip
+Authorization: OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="7ea01b27b9e394218b03467e3118eec0", oauth_signature="3BlQUTCgPBc7fDInCF6xTqecREA%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915400", oauth_version="1.0"
+Content-Length: 17
+Content-Type: application/x-www-form-urlencoded
+
+',
+      ),
+      'error' => '',
+      'errno' => 0,
+    ),
+  )),
+   '_userId' => '296811615',
+   '_userInfo' => 
+  array (
+    'id' => 296811615,
+    'url' => NULL,
+    'created_at' => 'Wed May 11 12:58:25 +0000 2011',
+    'contributors_enabled' => false,
+    'screen_name' => 'RomanGaleev',
+    'profile_background_color' => 'C0DEED',
+    'following' => NULL,
+    'geo_enabled' => false,
+    'profile_image_url' => 'http://a0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'utc_offset' => NULL,
+    'followers_count' => 4,
+    'profile_image_url_https' => 'https://si0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'profile_background_image_url' => 'http://a0.twimg.com/images/themes/theme1/bg.png',
+    'name' => 'Роман Галеев',
+    'time_zone' => NULL,
+    'default_profile' => true,
+    'show_all_inline_media' => false,
+    'statuses_count' => 5,
+    'profile_link_color' => '0084B4',
+    'location' => '',
+    'follow_request_sent' => NULL,
+    'friends_count' => 2,
+    'protected' => false,
+    'profile_use_background_image' => true,
+    'listed_count' => 0,
+    'profile_text_color' => '333333',
+    'description' => '',
+    'notifications' => NULL,
+    'profile_sidebar_border_color' => 'C0DEED',
+    'verified' => false,
+    'is_translator' => false,
+    'lang' => 'ru',
+    'id_str' => '296811615',
+    'profile_background_tile' => false,
+    'status' => 
+    array (
+      'in_reply_to_screen_name' => 'EnglishtownRu',
+      'id_str' => '215455615840034816',
+      'coordinates' => NULL,
+      'geo' => NULL,
+      'retweeted' => false,
+      'in_reply_to_user_id' => 305572158,
+      'retweet_count' => 0,
+      'in_reply_to_status_id' => 2.1545117534718E+17,
+      'favorited' => false,
+      'in_reply_to_status_id_str' => '215451175347175424',
+      'truncated' => false,
+      'place' => NULL,
+      'source' => 'web',
+      'in_reply_to_user_id_str' => '305572158',
+      'id' => 2.1545561584003E+17,
+      'created_at' => 'Wed Jun 20 14:46:36 +0000 2012',
+      'contributors' => NULL,
+      'text' => '@EnglishtownRu спасибо, всё работает :)',
+    ),
+    'default_profile_image' => false,
+    'profile_sidebar_fill_color' => 'DDEEF6',
+    'profile_background_image_url_https' => 'https://si0.twimg.com/images/themes/theme1/bg.png',
+    'favourites_count' => 0,
+  ),
+   '_picture' => NULL,
+))
+buser false
+---start
+MH_Social_Twitter::__set_state(array(
+   '_twitter' => 
+  Twitter_Twitter::__set_state(array(
+     'params' => 
+    array (
+    ),
+     'headers' => 
+    array (
+      'Authorization' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="de2aee2f062a227830d61767bd0e6191", oauth_signature="5GSKK8ntv3conDG8n04ZNj8YCH0%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915435", oauth_version="1.0"',
+      'Expect' => '',
+    ),
+     'auto_fixed_time' => false,
+     'buffer' => NULL,
+     'config' => 
+    array (
+      'user_agent' => 'tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth',
+      'use_ssl' => true,
+      'host' => 'api.twitter.com',
+      'consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'consumer_secret' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ',
+      'user_token' => '',
+      'user_secret' => '',
+      'force_nonce' => false,
+      'nonce' => 'de2aee2f062a227830d61767bd0e6191',
+      'force_timestamp' => false,
+      'timestamp' => 1343915435,
+      'oauth_version' => '1.0',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'curl_connecttimeout' => 30,
+      'curl_timeout' => 10,
+      'curl_ssl_verifyhost' => 2,
+      'curl_ssl_verifypeer' => true,
+      'curl_cainfo' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter/cacert.pem',
+      'curl_capath' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter',
+      'curl_followlocation' => false,
+      'curl_proxy' => false,
+      'curl_proxyuserpwd' => false,
+      'curl_encoding' => '',
+      'is_streaming' => false,
+      'streaming_eol' => '
+',
+      'streaming_metrics_interval' => 60,
+      'as_header' => true,
+      'debug' => false,
+      'multipart' => false,
+    ),
+     'method' => 'POST',
+     'url' => 'https://api.twitter.com/1/users/lookup.json',
+     'signing_params' => 'oauth_consumer_key=Qd39wEeD4CLhikrHBH76wA&oauth_nonce=de2aee2f062a227830d61767bd0e6191&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1343915435&oauth_version=1.0&user_id=296811615',
+     'auth_params' => 
+    array (
+      'oauth_consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'oauth_nonce' => 'de2aee2f062a227830d61767bd0e6191',
+      'oauth_signature' => '5GSKK8ntv3conDG8n04ZNj8YCH0%3D',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'oauth_timestamp' => '1343915435',
+      'oauth_version' => '1.0',
+    ),
+     'request_params' => 'user_id=296811615',
+     'base_string' => 'POST&https%3A%2F%2Fapi.twitter.com%2F1%2Fusers%2Flookup.json&oauth_consumer_key%3DQd39wEeD4CLhikrHBH76wA%26oauth_nonce%3Dde2aee2f062a227830d61767bd0e6191%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1343915435%26oauth_version%3D1.0%26user_id%3D296811615',
+     'signing_key' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ&',
+     'auth_header' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="de2aee2f062a227830d61767bd0e6191", oauth_signature="5GSKK8ntv3conDG8n04ZNj8YCH0%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915435", oauth_version="1.0"',
+     'response' => 
+    array (
+      'headers' => 
+      array (
+        'date' => 'Thu, 02 Aug 2012 13:49:24 GMT',
+        'status' => '200 OK',
+        'last_modified' => 'Thu, 02 Aug 2012 13:49:24 GMT',
+        'cache_control' => 'no-cache, no-store, must-revalidate, pre-check=0, post-check=0',
+        'x_transaction_mask' => 'a6183ffa5f8ca943ff1b53b5644ef11444936dae',
+        'pragma' => 'no-cache',
+        'expires' => 'Tue, 31 Mar 1981 05:00:00 GMT',
+        'x_frame_options' => 'SAMEORIGIN',
+        'x_ratelimit_reset' => '1343918665',
+        'x_warning' => 'Invalid OAuth credentials detected',
+        'x_mid' => '00d125f21a68d7f5d5ecacf439bbf41550a98e10',
+        'x_ratelimit_remaining' => '141',
+        'etag' => '"f96b415fd2775032711c8232a4350b32"',
+        'x_runtime' => '0.02297',
+        'x_transaction' => 'c0f543889b737e24',
+        'x_ratelimit_limit' => '150',
+        'x_ratelimit_class' => 'api',
+        'content_type' => 'application/json; charset=utf-8',
+        'set_cookie' => '_twitter_sess=BAh7CToPY3JlYXRlZF9hdGwrCGIPmec4AToHaWQiJTQ5ZThhYzVlMGM0ZWEz%250ANjRkODY2MmZjYTIyZDFlODNlOgxjc3JmX2lkIiViMTdiNTc5YjJkMWYzYTlh%250AZTcxNTI0OWYyYzljNmVlZCIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6%250ARmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA%253D%253D--985403a81d20c38061be9b85ff71d901aa76cde4; domain=.twitter.com; path=/; HttpOnly',
+        'vary' => 'Accept-Encoding',
+        'content_encoding' => 'gzip',
+        'content_length' => '763',
+        'server' => 'tfe',
+      ),
+      'code' => 200,
+      'response' => '[{"id":296811615,"url":null,"created_at":"Wed May 11 12:58:25 +0000 2011","contributors_enabled":false,"screen_name":"RomanGaleev","profile_background_color":"C0DEED","following":null,"geo_enabled":false,"profile_image_url":"http:\\/\\/a0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","utc_offset":null,"followers_count":4,"profile_image_url_https":"https:\\/\\/si0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","profile_background_image_url":"http:\\/\\/a0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","name":"\\u0420\\u043e\\u043c\\u0430\\u043d \\u0413\\u0430\\u043b\\u0435\\u0435\\u0432","time_zone":null,"default_profile":true,"show_all_inline_media":false,"statuses_count":5,"profile_link_color":"0084B4","location":"","follow_request_sent":null,"friends_count":2,"protected":false,"profile_use_background_image":true,"listed_count":0,"profile_text_color":"333333","description":"","notifications":null,"profile_sidebar_border_color":"C0DEED","verified":false,"is_translator":false,"lang":"ru","id_str":"296811615","profile_background_tile":false,"status":{"in_reply_to_screen_name":"EnglishtownRu","id_str":"215455615840034816","coordinates":null,"geo":null,"retweeted":false,"in_reply_to_user_id":305572158,"retweet_count":0,"in_reply_to_status_id":215451175347175424,"favorited":false,"in_reply_to_status_id_str":"215451175347175424","truncated":false,"place":null,"source":"web","in_reply_to_user_id_str":"305572158","id":215455615840034816,"created_at":"Wed Jun 20 14:46:36 +0000 2012","contributors":null,"text":"@EnglishtownRu \\u0441\\u043f\\u0430\\u0441\\u0438\\u0431\\u043e, \\u0432\\u0441\\u0451 \\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u0435\\u0442 :)"},"default_profile_image":false,"profile_sidebar_fill_color":"DDEEF6","profile_background_image_url_https":"https:\\/\\/si0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","favourites_count":0}]',
+      'info' => 
+      array (
+        'url' => 'https://api.twitter.com/1/users/lookup.json',
+        'content_type' => 'application/json; charset=utf-8',
+        'http_code' => 200,
+        'header_size' => 1349,
+        'request_size' => 513,
+        'filetime' => -1,
+        'ssl_verify_result' => 0,
+        'redirect_count' => 0,
+        'total_time' => 0.884393,
+        'namelookup_time' => 0.001163,
+        'connect_time' => 0.204293,
+        'pretransfer_time' => 0.645885,
+        'size_upload' => 17,
+        'size_download' => 763,
+        'speed_download' => 862,
+        'speed_upload' => 19,
+        'download_content_length' => 763,
+        'upload_content_length' => 17,
+        'starttransfer_time' => 0.883749,
+        'redirect_time' => 0,
+        'certinfo' => 
+        array (
+        ),
+        'request_header' => 'POST /1/users/lookup.json HTTP/1.1
+User-Agent: tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth
+Host: api.twitter.com
+Accept: */*
+Accept-Encoding: deflate, gzip
+Authorization: OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="de2aee2f062a227830d61767bd0e6191", oauth_signature="5GSKK8ntv3conDG8n04ZNj8YCH0%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915435", oauth_version="1.0"
+Content-Length: 17
+Content-Type: application/x-www-form-urlencoded
+
+',
+      ),
+      'error' => '',
+      'errno' => 0,
+    ),
+  )),
+   '_userId' => '296811615',
+   '_userInfo' => 
+  array (
+    'id' => 296811615,
+    'url' => NULL,
+    'created_at' => 'Wed May 11 12:58:25 +0000 2011',
+    'contributors_enabled' => false,
+    'screen_name' => 'RomanGaleev',
+    'profile_background_color' => 'C0DEED',
+    'following' => NULL,
+    'geo_enabled' => false,
+    'profile_image_url' => 'http://a0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'utc_offset' => NULL,
+    'followers_count' => 4,
+    'profile_image_url_https' => 'https://si0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'profile_background_image_url' => 'http://a0.twimg.com/images/themes/theme1/bg.png',
+    'name' => 'Роман Галеев',
+    'time_zone' => NULL,
+    'default_profile' => true,
+    'show_all_inline_media' => false,
+    'statuses_count' => 5,
+    'profile_link_color' => '0084B4',
+    'location' => '',
+    'follow_request_sent' => NULL,
+    'friends_count' => 2,
+    'protected' => false,
+    'profile_use_background_image' => true,
+    'listed_count' => 0,
+    'profile_text_color' => '333333',
+    'description' => '',
+    'notifications' => NULL,
+    'profile_sidebar_border_color' => 'C0DEED',
+    'verified' => false,
+    'is_translator' => false,
+    'lang' => 'ru',
+    'id_str' => '296811615',
+    'profile_background_tile' => false,
+    'status' => 
+    array (
+      'in_reply_to_screen_name' => 'EnglishtownRu',
+      'id_str' => '215455615840034816',
+      'coordinates' => NULL,
+      'geo' => NULL,
+      'retweeted' => false,
+      'in_reply_to_user_id' => 305572158,
+      'retweet_count' => 0,
+      'in_reply_to_status_id' => 2.1545117534718E+17,
+      'favorited' => false,
+      'in_reply_to_status_id_str' => '215451175347175424',
+      'truncated' => false,
+      'place' => NULL,
+      'source' => 'web',
+      'in_reply_to_user_id_str' => '305572158',
+      'id' => 2.1545561584003E+17,
+      'created_at' => 'Wed Jun 20 14:46:36 +0000 2012',
+      'contributors' => NULL,
+      'text' => '@EnglishtownRu спасибо, всё работает :)',
+    ),
+    'default_profile_image' => false,
+    'profile_sidebar_fill_color' => 'DDEEF6',
+    'profile_background_image_url_https' => 'https://si0.twimg.com/images/themes/theme1/bg.png',
+    'favourites_count' => 0,
+  ),
+   '_picture' => NULL,
+))
+buser false
+picure /var/wwwmhealth/bitrix/cache/social_pictures/5a225b6e1638911d6240ac07d700e827.jpg
+pictureArray array (
+  'name' => '5a225b6e1638911d6240ac07d700e827.jpg',
+  'size' => 4389,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/5a225b6e1638911d6240ac07d700e827.jpg',
+  'type' => 'image/jpeg',
+)
+---finish
+---start
+MH_Social_Twitter::__set_state(array(
+   '_twitter' => 
+  Twitter_Twitter::__set_state(array(
+     'params' => 
+    array (
+    ),
+     'headers' => 
+    array (
+      'Authorization' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="01b2f92b5a0d53f2fb1f5b8c1f083759", oauth_signature="UAtHve4J9U04fWAALT4EPSPBAao%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915815", oauth_version="1.0"',
+      'Expect' => '',
+    ),
+     'auto_fixed_time' => false,
+     'buffer' => NULL,
+     'config' => 
+    array (
+      'user_agent' => 'tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth',
+      'use_ssl' => true,
+      'host' => 'api.twitter.com',
+      'consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'consumer_secret' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ',
+      'user_token' => '',
+      'user_secret' => '',
+      'force_nonce' => false,
+      'nonce' => '01b2f92b5a0d53f2fb1f5b8c1f083759',
+      'force_timestamp' => false,
+      'timestamp' => 1343915815,
+      'oauth_version' => '1.0',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'curl_connecttimeout' => 30,
+      'curl_timeout' => 10,
+      'curl_ssl_verifyhost' => 2,
+      'curl_ssl_verifypeer' => true,
+      'curl_cainfo' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter/cacert.pem',
+      'curl_capath' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter',
+      'curl_followlocation' => false,
+      'curl_proxy' => false,
+      'curl_proxyuserpwd' => false,
+      'curl_encoding' => '',
+      'is_streaming' => false,
+      'streaming_eol' => '
+',
+      'streaming_metrics_interval' => 60,
+      'as_header' => true,
+      'debug' => false,
+      'multipart' => false,
+    ),
+     'method' => 'POST',
+     'url' => 'https://api.twitter.com/1/users/lookup.json',
+     'signing_params' => 'oauth_consumer_key=Qd39wEeD4CLhikrHBH76wA&oauth_nonce=01b2f92b5a0d53f2fb1f5b8c1f083759&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1343915815&oauth_version=1.0&user_id=296811615',
+     'auth_params' => 
+    array (
+      'oauth_consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'oauth_nonce' => '01b2f92b5a0d53f2fb1f5b8c1f083759',
+      'oauth_signature' => 'UAtHve4J9U04fWAALT4EPSPBAao%3D',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'oauth_timestamp' => '1343915815',
+      'oauth_version' => '1.0',
+    ),
+     'request_params' => 'user_id=296811615',
+     'base_string' => 'POST&https%3A%2F%2Fapi.twitter.com%2F1%2Fusers%2Flookup.json&oauth_consumer_key%3DQd39wEeD4CLhikrHBH76wA%26oauth_nonce%3D01b2f92b5a0d53f2fb1f5b8c1f083759%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1343915815%26oauth_version%3D1.0%26user_id%3D296811615',
+     'signing_key' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ&',
+     'auth_header' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="01b2f92b5a0d53f2fb1f5b8c1f083759", oauth_signature="UAtHve4J9U04fWAALT4EPSPBAao%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915815", oauth_version="1.0"',
+     'response' => 
+    array (
+      'headers' => 
+      array (
+        'date' => 'Thu, 02 Aug 2012 13:55:44 GMT',
+        'status' => '200 OK',
+        'x_warning' => 'Invalid OAuth credentials detected',
+        'x_ratelimit_class' => 'api',
+        'cache_control' => 'no-cache, no-store, must-revalidate, pre-check=0, post-check=0',
+        'x_runtime' => '0.10340',
+        'x_transaction' => '05399aebeea4e4ca',
+        'x_ratelimit_reset' => '1343918665',
+        'x_ratelimit_remaining' => '139',
+        'last_modified' => 'Thu, 02 Aug 2012 13:55:43 GMT',
+        'x_ratelimit_limit' => '150',
+        'expires' => 'Tue, 31 Mar 1981 05:00:00 GMT',
+        'x_transaction_mask' => 'a6183ffa5f8ca943ff1b53b5644ef11444936dae',
+        'x_frame_options' => 'SAMEORIGIN',
+        'x_mid' => '356587e074fd0b27494fbe0225207b9b143a041b',
+        'pragma' => 'no-cache',
+        'etag' => '"f96b415fd2775032711c8232a4350b32"',
+        'content_type' => 'application/json; charset=utf-8',
+        'set_cookie' => '_twitter_sess=BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCM%252Fanuc4AToHaWQiJTE3%250AYTcxOGI5OTExNDAzZWZmNWU2YjU4NzMwN2U0MzY2Ogxjc3JmX2lkIiU4MzY0%250ANTg1YzA2OTJlMDVmNmFlNTdmNjk1MzA4ZjgxNw%253D%253D--c3c0a9ce34f62978326a1d2b128912919478b2b1; domain=.twitter.com; path=/; HttpOnly',
+        'vary' => 'Accept-Encoding',
+        'content_encoding' => 'gzip',
+        'content_length' => '763',
+        'server' => 'tfe',
+      ),
+      'code' => 200,
+      'response' => '[{"id":296811615,"url":null,"created_at":"Wed May 11 12:58:25 +0000 2011","contributors_enabled":false,"screen_name":"RomanGaleev","profile_background_color":"C0DEED","following":null,"geo_enabled":false,"profile_image_url":"http:\\/\\/a0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","utc_offset":null,"followers_count":4,"profile_image_url_https":"https:\\/\\/si0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","profile_background_image_url":"http:\\/\\/a0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","name":"\\u0420\\u043e\\u043c\\u0430\\u043d \\u0413\\u0430\\u043b\\u0435\\u0435\\u0432","time_zone":null,"default_profile":true,"show_all_inline_media":false,"statuses_count":5,"profile_link_color":"0084B4","location":"","follow_request_sent":null,"friends_count":2,"protected":false,"profile_use_background_image":true,"listed_count":0,"profile_text_color":"333333","description":"","notifications":null,"profile_sidebar_border_color":"C0DEED","verified":false,"is_translator":false,"lang":"ru","id_str":"296811615","profile_background_tile":false,"status":{"in_reply_to_screen_name":"EnglishtownRu","id_str":"215455615840034816","coordinates":null,"geo":null,"retweeted":false,"in_reply_to_user_id":305572158,"retweet_count":0,"in_reply_to_status_id":215451175347175424,"favorited":false,"in_reply_to_status_id_str":"215451175347175424","truncated":false,"place":null,"source":"web","in_reply_to_user_id_str":"305572158","id":215455615840034816,"created_at":"Wed Jun 20 14:46:36 +0000 2012","contributors":null,"text":"@EnglishtownRu \\u0441\\u043f\\u0430\\u0441\\u0438\\u0431\\u043e, \\u0432\\u0441\\u0451 \\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u0435\\u0442 :)"},"default_profile_image":false,"profile_sidebar_fill_color":"DDEEF6","profile_background_image_url_https":"https:\\/\\/si0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","favourites_count":0}]',
+      'info' => 
+      array (
+        'url' => 'https://api.twitter.com/1/users/lookup.json',
+        'content_type' => 'application/json; charset=utf-8',
+        'http_code' => 200,
+        'header_size' => 1354,
+        'request_size' => 513,
+        'filetime' => -1,
+        'ssl_verify_result' => 0,
+        'redirect_count' => 0,
+        'total_time' => 1.189299,
+        'namelookup_time' => 0.001122,
+        'connect_time' => 0.203543,
+        'pretransfer_time' => 0.834249,
+        'size_upload' => 17,
+        'size_download' => 763,
+        'speed_download' => 641,
+        'speed_upload' => 14,
+        'download_content_length' => 763,
+        'upload_content_length' => 17,
+        'starttransfer_time' => 1.188626,
+        'redirect_time' => 0,
+        'certinfo' => 
+        array (
+        ),
+        'request_header' => 'POST /1/users/lookup.json HTTP/1.1
+User-Agent: tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth
+Host: api.twitter.com
+Accept: */*
+Accept-Encoding: deflate, gzip
+Authorization: OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="01b2f92b5a0d53f2fb1f5b8c1f083759", oauth_signature="UAtHve4J9U04fWAALT4EPSPBAao%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343915815", oauth_version="1.0"
+Content-Length: 17
+Content-Type: application/x-www-form-urlencoded
+
+',
+      ),
+      'error' => '',
+      'errno' => 0,
+    ),
+  )),
+   '_userId' => '296811615',
+   '_userInfo' => 
+  array (
+    'id' => 296811615,
+    'url' => NULL,
+    'created_at' => 'Wed May 11 12:58:25 +0000 2011',
+    'contributors_enabled' => false,
+    'screen_name' => 'RomanGaleev',
+    'profile_background_color' => 'C0DEED',
+    'following' => NULL,
+    'geo_enabled' => false,
+    'profile_image_url' => 'http://a0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'utc_offset' => NULL,
+    'followers_count' => 4,
+    'profile_image_url_https' => 'https://si0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'profile_background_image_url' => 'http://a0.twimg.com/images/themes/theme1/bg.png',
+    'name' => 'Роман Галеев',
+    'time_zone' => NULL,
+    'default_profile' => true,
+    'show_all_inline_media' => false,
+    'statuses_count' => 5,
+    'profile_link_color' => '0084B4',
+    'location' => '',
+    'follow_request_sent' => NULL,
+    'friends_count' => 2,
+    'protected' => false,
+    'profile_use_background_image' => true,
+    'listed_count' => 0,
+    'profile_text_color' => '333333',
+    'description' => '',
+    'notifications' => NULL,
+    'profile_sidebar_border_color' => 'C0DEED',
+    'verified' => false,
+    'is_translator' => false,
+    'lang' => 'ru',
+    'id_str' => '296811615',
+    'profile_background_tile' => false,
+    'status' => 
+    array (
+      'in_reply_to_screen_name' => 'EnglishtownRu',
+      'id_str' => '215455615840034816',
+      'coordinates' => NULL,
+      'geo' => NULL,
+      'retweeted' => false,
+      'in_reply_to_user_id' => 305572158,
+      'retweet_count' => 0,
+      'in_reply_to_status_id' => 2.1545117534718E+17,
+      'favorited' => false,
+      'in_reply_to_status_id_str' => '215451175347175424',
+      'truncated' => false,
+      'place' => NULL,
+      'source' => 'web',
+      'in_reply_to_user_id_str' => '305572158',
+      'id' => 2.1545561584003E+17,
+      'created_at' => 'Wed Jun 20 14:46:36 +0000 2012',
+      'contributors' => NULL,
+      'text' => '@EnglishtownRu спасибо, всё работает :)',
+    ),
+    'default_profile_image' => false,
+    'profile_sidebar_fill_color' => 'DDEEF6',
+    'profile_background_image_url_https' => 'https://si0.twimg.com/images/themes/theme1/bg.png',
+    'favourites_count' => 0,
+  ),
+   '_picture' => NULL,
+))
+buser array (
+  'ID' => '5',
+  'USER_ID' => '810674',
+  'ALIAS' => NULL,
+  'DESCRIPTION' => NULL,
+  'AVATAR' => '872272',
+  'INTERESTS' => NULL,
+  'ALLOW_POST' => 'Y',
+  'LAST_VISIT' => NULL,
+  'DATE_REG' => '00.00.0000 00:00:00',
+)
+---finish
+---start
+MH_Social_Twitter::__set_state(array(
+   '_twitter' => 
+  Twitter_Twitter::__set_state(array(
+     'params' => 
+    array (
+    ),
+     'headers' => 
+    array (
+      'Authorization' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="36844047b78046b895c244cb4482a0fe", oauth_signature="5vqstIOzFnM1G6CxonICUVoBtb0%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343916341", oauth_version="1.0"',
+      'Expect' => '',
+    ),
+     'auto_fixed_time' => false,
+     'buffer' => NULL,
+     'config' => 
+    array (
+      'user_agent' => 'tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth',
+      'use_ssl' => true,
+      'host' => 'api.twitter.com',
+      'consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'consumer_secret' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ',
+      'user_token' => '',
+      'user_secret' => '',
+      'force_nonce' => false,
+      'nonce' => '36844047b78046b895c244cb4482a0fe',
+      'force_timestamp' => false,
+      'timestamp' => 1343916341,
+      'oauth_version' => '1.0',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'curl_connecttimeout' => 30,
+      'curl_timeout' => 10,
+      'curl_ssl_verifyhost' => 2,
+      'curl_ssl_verifypeer' => true,
+      'curl_cainfo' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter/cacert.pem',
+      'curl_capath' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter',
+      'curl_followlocation' => false,
+      'curl_proxy' => false,
+      'curl_proxyuserpwd' => false,
+      'curl_encoding' => '',
+      'is_streaming' => false,
+      'streaming_eol' => '
+',
+      'streaming_metrics_interval' => 60,
+      'as_header' => true,
+      'debug' => false,
+      'multipart' => false,
+    ),
+     'method' => 'POST',
+     'url' => 'https://api.twitter.com/1/users/lookup.json',
+     'signing_params' => 'oauth_consumer_key=Qd39wEeD4CLhikrHBH76wA&oauth_nonce=36844047b78046b895c244cb4482a0fe&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1343916341&oauth_version=1.0&user_id=296811615',
+     'auth_params' => 
+    array (
+      'oauth_consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'oauth_nonce' => '36844047b78046b895c244cb4482a0fe',
+      'oauth_signature' => '5vqstIOzFnM1G6CxonICUVoBtb0%3D',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'oauth_timestamp' => '1343916341',
+      'oauth_version' => '1.0',
+    ),
+     'request_params' => 'user_id=296811615',
+     'base_string' => 'POST&https%3A%2F%2Fapi.twitter.com%2F1%2Fusers%2Flookup.json&oauth_consumer_key%3DQd39wEeD4CLhikrHBH76wA%26oauth_nonce%3D36844047b78046b895c244cb4482a0fe%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1343916341%26oauth_version%3D1.0%26user_id%3D296811615',
+     'signing_key' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ&',
+     'auth_header' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="36844047b78046b895c244cb4482a0fe", oauth_signature="5vqstIOzFnM1G6CxonICUVoBtb0%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343916341", oauth_version="1.0"',
+     'response' => 
+    array (
+      'headers' => 
+      array (
+        'date' => 'Thu, 02 Aug 2012 14:04:29 GMT',
+        'status' => '200 OK',
+        'last_modified' => 'Thu, 02 Aug 2012 14:04:29 GMT',
+        'x_ratelimit_limit' => '150',
+        'x_runtime' => '0.06237',
+        'x_transaction_mask' => 'a6183ffa5f8ca943ff1b53b5644ef11444936dae',
+        'x_frame_options' => 'SAMEORIGIN',
+        'x_ratelimit_reset' => '1343918665',
+        'x_ratelimit_remaining' => '131',
+        'content_type' => 'application/json; charset=utf-8',
+        'x_transaction' => '75fe0bb9a5ccf903',
+        'expires' => 'Tue, 31 Mar 1981 05:00:00 GMT',
+        'etag' => '"f96b415fd2775032711c8232a4350b32"',
+        'x_mid' => '3d17080906d88e87ef049f130f46a22cec955e8e',
+        'pragma' => 'no-cache',
+        'x_warning' => 'Invalid OAuth credentials detected',
+        'cache_control' => 'no-cache, no-store, must-revalidate, pre-check=0, post-check=0',
+        'x_ratelimit_class' => 'api',
+        'set_cookie' => '_twitter_sess=BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCITgpuc4AToHaWQiJTZm%250AZWIxMzE0NzI4NzVlOWY5YWU4YjBhYWY4MmMxMjY1Ogxjc3JmX2lkIiU2Nzkw%250AMjZmMGZiZmQwZjNjZGIwOTY0NzI3NjZhYzE3NQ%253D%253D--5f039368e924e1e0451ceee50f95de041938bfc3; domain=.twitter.com; path=/; HttpOnly',
+        'vary' => 'Accept-Encoding',
+        'content_encoding' => 'gzip',
+        'content_length' => '763',
+        'server' => 'tfe',
+      ),
+      'code' => 200,
+      'response' => '[{"id":296811615,"url":null,"created_at":"Wed May 11 12:58:25 +0000 2011","contributors_enabled":false,"screen_name":"RomanGaleev","profile_background_color":"C0DEED","following":null,"geo_enabled":false,"profile_image_url":"http:\\/\\/a0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","utc_offset":null,"followers_count":4,"profile_image_url_https":"https:\\/\\/si0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","profile_background_image_url":"http:\\/\\/a0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","name":"\\u0420\\u043e\\u043c\\u0430\\u043d \\u0413\\u0430\\u043b\\u0435\\u0435\\u0432","time_zone":null,"default_profile":true,"show_all_inline_media":false,"statuses_count":5,"profile_link_color":"0084B4","location":"","follow_request_sent":null,"friends_count":2,"protected":false,"profile_use_background_image":true,"listed_count":0,"profile_text_color":"333333","description":"","notifications":null,"profile_sidebar_border_color":"C0DEED","verified":false,"is_translator":false,"lang":"ru","id_str":"296811615","profile_background_tile":false,"status":{"in_reply_to_screen_name":"EnglishtownRu","id_str":"215455615840034816","coordinates":null,"geo":null,"retweeted":false,"in_reply_to_user_id":305572158,"retweet_count":0,"in_reply_to_status_id":215451175347175424,"favorited":false,"in_reply_to_status_id_str":"215451175347175424","truncated":false,"place":null,"source":"web","in_reply_to_user_id_str":"305572158","id":215455615840034816,"created_at":"Wed Jun 20 14:46:36 +0000 2012","contributors":null,"text":"@EnglishtownRu \\u0441\\u043f\\u0430\\u0441\\u0438\\u0431\\u043e, \\u0432\\u0441\\u0451 \\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u0435\\u0442 :)"},"default_profile_image":false,"profile_sidebar_fill_color":"DDEEF6","profile_background_image_url_https":"https:\\/\\/si0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","favourites_count":0}]',
+      'info' => 
+      array (
+        'url' => 'https://api.twitter.com/1/users/lookup.json',
+        'content_type' => 'application/json; charset=utf-8',
+        'http_code' => 200,
+        'header_size' => 1349,
+        'request_size' => 513,
+        'filetime' => -1,
+        'ssl_verify_result' => 0,
+        'redirect_count' => 0,
+        'total_time' => 1.020659,
+        'namelookup_time' => 0.001182,
+        'connect_time' => 0.215824,
+        'pretransfer_time' => 0.696263,
+        'size_upload' => 17,
+        'size_download' => 763,
+        'speed_download' => 747,
+        'speed_upload' => 16,
+        'download_content_length' => 763,
+        'upload_content_length' => 17,
+        'starttransfer_time' => 1.020035,
+        'redirect_time' => 0,
+        'certinfo' => 
+        array (
+        ),
+        'request_header' => 'POST /1/users/lookup.json HTTP/1.1
+User-Agent: tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth
+Host: api.twitter.com
+Accept: */*
+Accept-Encoding: deflate, gzip
+Authorization: OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="36844047b78046b895c244cb4482a0fe", oauth_signature="5vqstIOzFnM1G6CxonICUVoBtb0%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343916341", oauth_version="1.0"
+Content-Length: 17
+Content-Type: application/x-www-form-urlencoded
+
+',
+      ),
+      'error' => '',
+      'errno' => 0,
+    ),
+  )),
+   '_userId' => '296811615',
+   '_userInfo' => 
+  array (
+    'id' => 296811615,
+    'url' => NULL,
+    'created_at' => 'Wed May 11 12:58:25 +0000 2011',
+    'contributors_enabled' => false,
+    'screen_name' => 'RomanGaleev',
+    'profile_background_color' => 'C0DEED',
+    'following' => NULL,
+    'geo_enabled' => false,
+    'profile_image_url' => 'http://a0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'utc_offset' => NULL,
+    'followers_count' => 4,
+    'profile_image_url_https' => 'https://si0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'profile_background_image_url' => 'http://a0.twimg.com/images/themes/theme1/bg.png',
+    'name' => 'Роман Галеев',
+    'time_zone' => NULL,
+    'default_profile' => true,
+    'show_all_inline_media' => false,
+    'statuses_count' => 5,
+    'profile_link_color' => '0084B4',
+    'location' => '',
+    'follow_request_sent' => NULL,
+    'friends_count' => 2,
+    'protected' => false,
+    'profile_use_background_image' => true,
+    'listed_count' => 0,
+    'profile_text_color' => '333333',
+    'description' => '',
+    'notifications' => NULL,
+    'profile_sidebar_border_color' => 'C0DEED',
+    'verified' => false,
+    'is_translator' => false,
+    'lang' => 'ru',
+    'id_str' => '296811615',
+    'profile_background_tile' => false,
+    'status' => 
+    array (
+      'in_reply_to_screen_name' => 'EnglishtownRu',
+      'id_str' => '215455615840034816',
+      'coordinates' => NULL,
+      'geo' => NULL,
+      'retweeted' => false,
+      'in_reply_to_user_id' => 305572158,
+      'retweet_count' => 0,
+      'in_reply_to_status_id' => 2.1545117534718E+17,
+      'favorited' => false,
+      'in_reply_to_status_id_str' => '215451175347175424',
+      'truncated' => false,
+      'place' => NULL,
+      'source' => 'web',
+      'in_reply_to_user_id_str' => '305572158',
+      'id' => 2.1545561584003E+17,
+      'created_at' => 'Wed Jun 20 14:46:36 +0000 2012',
+      'contributors' => NULL,
+      'text' => '@EnglishtownRu спасибо, всё работает :)',
+    ),
+    'default_profile_image' => false,
+    'profile_sidebar_fill_color' => 'DDEEF6',
+    'profile_background_image_url_https' => 'https://si0.twimg.com/images/themes/theme1/bg.png',
+    'favourites_count' => 0,
+  ),
+   '_picture' => NULL,
+))
+buser array (
+  'ID' => '5',
+  'USER_ID' => '810674',
+  'ALIAS' => NULL,
+  'DESCRIPTION' => NULL,
+  'AVATAR' => '872272',
+  'INTERESTS' => NULL,
+  'ALLOW_POST' => 'Y',
+  'LAST_VISIT' => NULL,
+  'DATE_REG' => '00.00.0000 00:00:00',
+)
+---finish
+---start
+MH_Social_Twitter::__set_state(array(
+   '_twitter' => 
+  Twitter_Twitter::__set_state(array(
+     'params' => 
+    array (
+    ),
+     'headers' => 
+    array (
+      'Authorization' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="51dbb1bab4fa48658f93d9b5d43bca4d", oauth_signature="IVpkutNScvax4jpiKglJ4gpmju4%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343916706", oauth_version="1.0"',
+      'Expect' => '',
+    ),
+     'auto_fixed_time' => false,
+     'buffer' => NULL,
+     'config' => 
+    array (
+      'user_agent' => 'tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth',
+      'use_ssl' => true,
+      'host' => 'api.twitter.com',
+      'consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'consumer_secret' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ',
+      'user_token' => '',
+      'user_secret' => '',
+      'force_nonce' => false,
+      'nonce' => '51dbb1bab4fa48658f93d9b5d43bca4d',
+      'force_timestamp' => false,
+      'timestamp' => 1343916706,
+      'oauth_version' => '1.0',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'curl_connecttimeout' => 30,
+      'curl_timeout' => 10,
+      'curl_ssl_verifyhost' => 2,
+      'curl_ssl_verifypeer' => true,
+      'curl_cainfo' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter/cacert.pem',
+      'curl_capath' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter',
+      'curl_followlocation' => false,
+      'curl_proxy' => false,
+      'curl_proxyuserpwd' => false,
+      'curl_encoding' => '',
+      'is_streaming' => false,
+      'streaming_eol' => '
+',
+      'streaming_metrics_interval' => 60,
+      'as_header' => true,
+      'debug' => false,
+      'multipart' => false,
+    ),
+     'method' => 'POST',
+     'url' => 'https://api.twitter.com/1/users/lookup.json',
+     'signing_params' => 'oauth_consumer_key=Qd39wEeD4CLhikrHBH76wA&oauth_nonce=51dbb1bab4fa48658f93d9b5d43bca4d&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1343916706&oauth_version=1.0&user_id=296811615',
+     'auth_params' => 
+    array (
+      'oauth_consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'oauth_nonce' => '51dbb1bab4fa48658f93d9b5d43bca4d',
+      'oauth_signature' => 'IVpkutNScvax4jpiKglJ4gpmju4%3D',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'oauth_timestamp' => '1343916706',
+      'oauth_version' => '1.0',
+    ),
+     'request_params' => 'user_id=296811615',
+     'base_string' => 'POST&https%3A%2F%2Fapi.twitter.com%2F1%2Fusers%2Flookup.json&oauth_consumer_key%3DQd39wEeD4CLhikrHBH76wA%26oauth_nonce%3D51dbb1bab4fa48658f93d9b5d43bca4d%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1343916706%26oauth_version%3D1.0%26user_id%3D296811615',
+     'signing_key' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ&',
+     'auth_header' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="51dbb1bab4fa48658f93d9b5d43bca4d", oauth_signature="IVpkutNScvax4jpiKglJ4gpmju4%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343916706", oauth_version="1.0"',
+     'response' => 
+    array (
+      'headers' => 
+      array (
+        'date' => 'Thu, 02 Aug 2012 14:10:35 GMT',
+        'status' => '200 OK',
+        'x_transaction_mask' => 'a6183ffa5f8ca943ff1b53b5644ef11444936dae',
+        'pragma' => 'no-cache',
+        'x_ratelimit_class' => 'api',
+        'x_frame_options' => 'SAMEORIGIN',
+        'cache_control' => 'no-cache, no-store, must-revalidate, pre-check=0, post-check=0',
+        'etag' => '"f96b415fd2775032711c8232a4350b32"',
+        'x_ratelimit_limit' => '150',
+        'content_type' => 'application/json; charset=utf-8',
+        'x_runtime' => '0.03201',
+        'x_transaction' => '97f50d3c8ffd722b',
+        'x_warning' => 'Invalid OAuth credentials detected',
+        'expires' => 'Tue, 31 Mar 1981 05:00:00 GMT',
+        'last_modified' => 'Thu, 02 Aug 2012 14:10:35 GMT',
+        'x_mid' => '04261678fe5af1fedc4f6c5ad0d7fc08a77ed231',
+        'x_ratelimit_reset' => '1343918665',
+        'x_ratelimit_remaining' => '129',
+        'set_cookie' => '_twitter_sess=BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCA90rOc4AToHaWQiJTNh%250AY2MxYjllNWEyYTgxNTgzZmY4YzkxYzM4NmJmMTI5Ogxjc3JmX2lkIiU5MmU2%250ANjk3ODRhZDNlN2NhZTkyN2E3ZmMwN2I1NDNkYg%253D%253D--aa59475de6ba3bd8782b524f75774f72de98d3e2; domain=.twitter.com; path=/; HttpOnly',
+        'vary' => 'Accept-Encoding',
+        'content_encoding' => 'gzip',
+        'content_length' => '763',
+        'server' => 'tfe',
+      ),
+      'code' => 200,
+      'response' => '[{"id":296811615,"url":null,"created_at":"Wed May 11 12:58:25 +0000 2011","contributors_enabled":false,"screen_name":"RomanGaleev","profile_background_color":"C0DEED","following":null,"geo_enabled":false,"profile_image_url":"http:\\/\\/a0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","utc_offset":null,"followers_count":4,"profile_image_url_https":"https:\\/\\/si0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","profile_background_image_url":"http:\\/\\/a0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","name":"\\u0420\\u043e\\u043c\\u0430\\u043d \\u0413\\u0430\\u043b\\u0435\\u0435\\u0432","time_zone":null,"default_profile":true,"show_all_inline_media":false,"statuses_count":5,"profile_link_color":"0084B4","location":"","follow_request_sent":null,"friends_count":2,"protected":false,"profile_use_background_image":true,"listed_count":0,"profile_text_color":"333333","description":"","notifications":null,"profile_sidebar_border_color":"C0DEED","verified":false,"is_translator":false,"lang":"ru","id_str":"296811615","profile_background_tile":false,"status":{"in_reply_to_screen_name":"EnglishtownRu","id_str":"215455615840034816","coordinates":null,"geo":null,"retweeted":false,"in_reply_to_user_id":305572158,"retweet_count":0,"in_reply_to_status_id":215451175347175424,"favorited":false,"in_reply_to_status_id_str":"215451175347175424","truncated":false,"place":null,"source":"web","in_reply_to_user_id_str":"305572158","id":215455615840034816,"created_at":"Wed Jun 20 14:46:36 +0000 2012","contributors":null,"text":"@EnglishtownRu \\u0441\\u043f\\u0430\\u0441\\u0438\\u0431\\u043e, \\u0432\\u0441\\u0451 \\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u0435\\u0442 :)"},"default_profile_image":false,"profile_sidebar_fill_color":"DDEEF6","profile_background_image_url_https":"https:\\/\\/si0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","favourites_count":0}]',
+      'info' => 
+      array (
+        'url' => 'https://api.twitter.com/1/users/lookup.json',
+        'content_type' => 'application/json; charset=utf-8',
+        'http_code' => 200,
+        'header_size' => 1349,
+        'request_size' => 513,
+        'filetime' => -1,
+        'ssl_verify_result' => 0,
+        'redirect_count' => 0,
+        'total_time' => 0.961114,
+        'namelookup_time' => 0.00126,
+        'connect_time' => 0.211232,
+        'pretransfer_time' => 0.669034,
+        'size_upload' => 17,
+        'size_download' => 763,
+        'speed_download' => 793,
+        'speed_upload' => 17,
+        'download_content_length' => 763,
+        'upload_content_length' => 17,
+        'starttransfer_time' => 0.960368,
+        'redirect_time' => 0,
+        'certinfo' => 
+        array (
+        ),
+        'request_header' => 'POST /1/users/lookup.json HTTP/1.1
+User-Agent: tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth
+Host: api.twitter.com
+Accept: */*
+Accept-Encoding: deflate, gzip
+Authorization: OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="51dbb1bab4fa48658f93d9b5d43bca4d", oauth_signature="IVpkutNScvax4jpiKglJ4gpmju4%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343916706", oauth_version="1.0"
+Content-Length: 17
+Content-Type: application/x-www-form-urlencoded
+
+',
+      ),
+      'error' => '',
+      'errno' => 0,
+    ),
+  )),
+   '_userId' => '296811615',
+   '_userInfo' => 
+  array (
+    'id' => 296811615,
+    'url' => NULL,
+    'created_at' => 'Wed May 11 12:58:25 +0000 2011',
+    'contributors_enabled' => false,
+    'screen_name' => 'RomanGaleev',
+    'profile_background_color' => 'C0DEED',
+    'following' => NULL,
+    'geo_enabled' => false,
+    'profile_image_url' => 'http://a0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'utc_offset' => NULL,
+    'followers_count' => 4,
+    'profile_image_url_https' => 'https://si0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'profile_background_image_url' => 'http://a0.twimg.com/images/themes/theme1/bg.png',
+    'name' => 'Роман Галеев',
+    'time_zone' => NULL,
+    'default_profile' => true,
+    'show_all_inline_media' => false,
+    'statuses_count' => 5,
+    'profile_link_color' => '0084B4',
+    'location' => '',
+    'follow_request_sent' => NULL,
+    'friends_count' => 2,
+    'protected' => false,
+    'profile_use_background_image' => true,
+    'listed_count' => 0,
+    'profile_text_color' => '333333',
+    'description' => '',
+    'notifications' => NULL,
+    'profile_sidebar_border_color' => 'C0DEED',
+    'verified' => false,
+    'is_translator' => false,
+    'lang' => 'ru',
+    'id_str' => '296811615',
+    'profile_background_tile' => false,
+    'status' => 
+    array (
+      'in_reply_to_screen_name' => 'EnglishtownRu',
+      'id_str' => '215455615840034816',
+      'coordinates' => NULL,
+      'geo' => NULL,
+      'retweeted' => false,
+      'in_reply_to_user_id' => 305572158,
+      'retweet_count' => 0,
+      'in_reply_to_status_id' => 2.1545117534718E+17,
+      'favorited' => false,
+      'in_reply_to_status_id_str' => '215451175347175424',
+      'truncated' => false,
+      'place' => NULL,
+      'source' => 'web',
+      'in_reply_to_user_id_str' => '305572158',
+      'id' => 2.1545561584003E+17,
+      'created_at' => 'Wed Jun 20 14:46:36 +0000 2012',
+      'contributors' => NULL,
+      'text' => '@EnglishtownRu спасибо, всё работает :)',
+    ),
+    'default_profile_image' => false,
+    'profile_sidebar_fill_color' => 'DDEEF6',
+    'profile_background_image_url_https' => 'https://si0.twimg.com/images/themes/theme1/bg.png',
+    'favourites_count' => 0,
+  ),
+   '_picture' => NULL,
+))
+buser false
+---start
+MH_Social_Twitter::__set_state(array(
+   '_twitter' => 
+  Twitter_Twitter::__set_state(array(
+     'params' => 
+    array (
+    ),
+     'headers' => 
+    array (
+      'Authorization' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="bc1aa32215c9b6d263a707c10974f5a2", oauth_signature="DothkUG9Qoe%2FD8rHWCGmFr0f2BA%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343916757", oauth_version="1.0"',
+      'Expect' => '',
+    ),
+     'auto_fixed_time' => false,
+     'buffer' => NULL,
+     'config' => 
+    array (
+      'user_agent' => 'tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth',
+      'use_ssl' => true,
+      'host' => 'api.twitter.com',
+      'consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'consumer_secret' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ',
+      'user_token' => '',
+      'user_secret' => '',
+      'force_nonce' => false,
+      'nonce' => 'bc1aa32215c9b6d263a707c10974f5a2',
+      'force_timestamp' => false,
+      'timestamp' => 1343916757,
+      'oauth_version' => '1.0',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'curl_connecttimeout' => 30,
+      'curl_timeout' => 10,
+      'curl_ssl_verifyhost' => 2,
+      'curl_ssl_verifypeer' => true,
+      'curl_cainfo' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter/cacert.pem',
+      'curl_capath' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter',
+      'curl_followlocation' => false,
+      'curl_proxy' => false,
+      'curl_proxyuserpwd' => false,
+      'curl_encoding' => '',
+      'is_streaming' => false,
+      'streaming_eol' => '
+',
+      'streaming_metrics_interval' => 60,
+      'as_header' => true,
+      'debug' => false,
+      'multipart' => false,
+    ),
+     'method' => 'POST',
+     'url' => 'https://api.twitter.com/1/users/lookup.json',
+     'signing_params' => 'oauth_consumer_key=Qd39wEeD4CLhikrHBH76wA&oauth_nonce=bc1aa32215c9b6d263a707c10974f5a2&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1343916757&oauth_version=1.0&user_id=296811615',
+     'auth_params' => 
+    array (
+      'oauth_consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'oauth_nonce' => 'bc1aa32215c9b6d263a707c10974f5a2',
+      'oauth_signature' => 'DothkUG9Qoe%2FD8rHWCGmFr0f2BA%3D',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'oauth_timestamp' => '1343916757',
+      'oauth_version' => '1.0',
+    ),
+     'request_params' => 'user_id=296811615',
+     'base_string' => 'POST&https%3A%2F%2Fapi.twitter.com%2F1%2Fusers%2Flookup.json&oauth_consumer_key%3DQd39wEeD4CLhikrHBH76wA%26oauth_nonce%3Dbc1aa32215c9b6d263a707c10974f5a2%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1343916757%26oauth_version%3D1.0%26user_id%3D296811615',
+     'signing_key' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ&',
+     'auth_header' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="bc1aa32215c9b6d263a707c10974f5a2", oauth_signature="DothkUG9Qoe%2FD8rHWCGmFr0f2BA%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343916757", oauth_version="1.0"',
+     'response' => 
+    array (
+      'headers' => 
+      array (
+        'date' => 'Thu, 02 Aug 2012 14:11:27 GMT',
+        'status' => '200 OK',
+        'x_ratelimit_class' => 'api',
+        'x_ratelimit_limit' => '150',
+        'cache_control' => 'no-cache, no-store, must-revalidate, pre-check=0, post-check=0',
+        'etag' => '"f96b415fd2775032711c8232a4350b32"',
+        'x_frame_options' => 'SAMEORIGIN',
+        'x_ratelimit_reset' => '1343918665',
+        'x_runtime' => '0.03190',
+        'pragma' => 'no-cache',
+        'x_transaction_mask' => 'a6183ffa5f8ca943ff1b53b5644ef11444936dae',
+        'x_warning' => 'Invalid OAuth credentials detected',
+        'x_mid' => '421b175abe9e330044e75eded41312ecf266f4f4',
+        'content_type' => 'application/json; charset=utf-8',
+        'x_transaction' => '6471aca40c180262',
+        'x_ratelimit_remaining' => '127',
+        'last_modified' => 'Thu, 02 Aug 2012 14:11:27 GMT',
+        'expires' => 'Tue, 31 Mar 1981 05:00:00 GMT',
+        'set_cookie' => '_twitter_sess=BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCIdArec4AToHaWQiJWFl%250ANmE2Zjk2OTNkNGE3MTBlNjU1MmFmYzUyZmU2N2I3Ogxjc3JmX2lkIiViZjU5%250AZTE5NTdkOTlmNGE2OGI1MTEzM2U2MmMzNGIyMg%253D%253D--7ec71fd51787d73077bf4c13ee308428602c7c6a; domain=.twitter.com; path=/; HttpOnly',
+        'vary' => 'Accept-Encoding',
+        'content_encoding' => 'gzip',
+        'content_length' => '763',
+        'server' => 'tfe',
+      ),
+      'code' => 200,
+      'response' => '[{"id":296811615,"url":null,"created_at":"Wed May 11 12:58:25 +0000 2011","contributors_enabled":false,"screen_name":"RomanGaleev","profile_background_color":"C0DEED","following":null,"geo_enabled":false,"profile_image_url":"http:\\/\\/a0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","utc_offset":null,"followers_count":4,"profile_image_url_https":"https:\\/\\/si0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","profile_background_image_url":"http:\\/\\/a0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","name":"\\u0420\\u043e\\u043c\\u0430\\u043d \\u0413\\u0430\\u043b\\u0435\\u0435\\u0432","time_zone":null,"default_profile":true,"show_all_inline_media":false,"statuses_count":5,"profile_link_color":"0084B4","location":"","follow_request_sent":null,"friends_count":2,"protected":false,"profile_use_background_image":true,"listed_count":0,"profile_text_color":"333333","description":"","notifications":null,"profile_sidebar_border_color":"C0DEED","verified":false,"is_translator":false,"lang":"ru","id_str":"296811615","profile_background_tile":false,"status":{"in_reply_to_screen_name":"EnglishtownRu","id_str":"215455615840034816","coordinates":null,"geo":null,"retweeted":false,"in_reply_to_user_id":305572158,"retweet_count":0,"in_reply_to_status_id":215451175347175424,"favorited":false,"in_reply_to_status_id_str":"215451175347175424","truncated":false,"place":null,"source":"web","in_reply_to_user_id_str":"305572158","id":215455615840034816,"created_at":"Wed Jun 20 14:46:36 +0000 2012","contributors":null,"text":"@EnglishtownRu \\u0441\\u043f\\u0430\\u0441\\u0438\\u0431\\u043e, \\u0432\\u0441\\u0451 \\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u0435\\u0442 :)"},"default_profile_image":false,"profile_sidebar_fill_color":"DDEEF6","profile_background_image_url_https":"https:\\/\\/si0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","favourites_count":0}]',
+      'info' => 
+      array (
+        'url' => 'https://api.twitter.com/1/users/lookup.json',
+        'content_type' => 'application/json; charset=utf-8',
+        'http_code' => 200,
+        'header_size' => 1349,
+        'request_size' => 515,
+        'filetime' => -1,
+        'ssl_verify_result' => 0,
+        'redirect_count' => 0,
+        'total_time' => 2.25807,
+        'namelookup_time' => 0.003698,
+        'connect_time' => 0.244696,
+        'pretransfer_time' => 1.975052,
+        'size_upload' => 17,
+        'size_download' => 763,
+        'speed_download' => 337,
+        'speed_upload' => 7,
+        'download_content_length' => 763,
+        'upload_content_length' => 17,
+        'starttransfer_time' => 2.257408,
+        'redirect_time' => 0,
+        'certinfo' => 
+        array (
+        ),
+        'request_header' => 'POST /1/users/lookup.json HTTP/1.1
+User-Agent: tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth
+Host: api.twitter.com
+Accept: */*
+Accept-Encoding: deflate, gzip
+Authorization: OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="bc1aa32215c9b6d263a707c10974f5a2", oauth_signature="DothkUG9Qoe%2FD8rHWCGmFr0f2BA%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343916757", oauth_version="1.0"
+Content-Length: 17
+Content-Type: application/x-www-form-urlencoded
+
+',
+      ),
+      'error' => '',
+      'errno' => 0,
+    ),
+  )),
+   '_userId' => '296811615',
+   '_userInfo' => 
+  array (
+    'id' => 296811615,
+    'url' => NULL,
+    'created_at' => 'Wed May 11 12:58:25 +0000 2011',
+    'contributors_enabled' => false,
+    'screen_name' => 'RomanGaleev',
+    'profile_background_color' => 'C0DEED',
+    'following' => NULL,
+    'geo_enabled' => false,
+    'profile_image_url' => 'http://a0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'utc_offset' => NULL,
+    'followers_count' => 4,
+    'profile_image_url_https' => 'https://si0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'profile_background_image_url' => 'http://a0.twimg.com/images/themes/theme1/bg.png',
+    'name' => 'Роман Галеев',
+    'time_zone' => NULL,
+    'default_profile' => true,
+    'show_all_inline_media' => false,
+    'statuses_count' => 5,
+    'profile_link_color' => '0084B4',
+    'location' => '',
+    'follow_request_sent' => NULL,
+    'friends_count' => 2,
+    'protected' => false,
+    'profile_use_background_image' => true,
+    'listed_count' => 0,
+    'profile_text_color' => '333333',
+    'description' => '',
+    'notifications' => NULL,
+    'profile_sidebar_border_color' => 'C0DEED',
+    'verified' => false,
+    'is_translator' => false,
+    'lang' => 'ru',
+    'id_str' => '296811615',
+    'profile_background_tile' => false,
+    'status' => 
+    array (
+      'in_reply_to_screen_name' => 'EnglishtownRu',
+      'id_str' => '215455615840034816',
+      'coordinates' => NULL,
+      'geo' => NULL,
+      'retweeted' => false,
+      'in_reply_to_user_id' => 305572158,
+      'retweet_count' => 0,
+      'in_reply_to_status_id' => 2.1545117534718E+17,
+      'favorited' => false,
+      'in_reply_to_status_id_str' => '215451175347175424',
+      'truncated' => false,
+      'place' => NULL,
+      'source' => 'web',
+      'in_reply_to_user_id_str' => '305572158',
+      'id' => 2.1545561584003E+17,
+      'created_at' => 'Wed Jun 20 14:46:36 +0000 2012',
+      'contributors' => NULL,
+      'text' => '@EnglishtownRu спасибо, всё работает :)',
+    ),
+    'default_profile_image' => false,
+    'profile_sidebar_fill_color' => 'DDEEF6',
+    'profile_background_image_url_https' => 'https://si0.twimg.com/images/themes/theme1/bg.png',
+    'favourites_count' => 0,
+  ),
+   '_picture' => NULL,
+))
+buser false
+picure /var/wwwmhealth/bitrix/cache/social_pictures/0d9e29680a46223e3f2a9c0784f045f8.jpg
+pictureArray array (
+  'name' => '0d9e29680a46223e3f2a9c0784f045f8.jpg',
+  'size' => 11631,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/0d9e29680a46223e3f2a9c0784f045f8.jpg',
+  'type' => 'image/jpeg',
+)
+---finish
+---start
+MH_Social_Facebook::__set_state(array(
+   '_facebook' => 
+  Facebook_Facebook::__set_state(array(
+     'appId' => '447579571927341',
+     'appSecret' => '2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'user' => NULL,
+     'signedRequest' => NULL,
+     'state' => NULL,
+     'accessToken' => '447579571927341|2f2cf9cd60f9e98d6cf3309e6b7bde5d',
+     'fileUploadSupport' => false,
+  )),
+   '_userId' => '100001669435326',
+   '_userInfo' => 
+  array (
+    'id' => '100001669435326',
+    'name' => 'Роман Галеев',
+    'first_name' => 'Роман',
+    'last_name' => 'Галеев',
+    'gender' => 'male',
+    'email' => 'grom86@nightmail.com',
+    'picture' => 'http://profile.ak.fbcdn.net/hprofile-ak-snc4/369249_100001669435326_1250530020_q.jpg',
+  ),
+   '_picture' => NULL,
+))
+buser false
+picure /var/wwwmhealth/bitrix/cache/social_pictures/3280e5f0698eb6e0faf0115cd6775844.jpg
+pictureArray array (
+  'name' => '3280e5f0698eb6e0faf0115cd6775844.jpg',
+  'size' => 8994,
+  'tmp_name' => '/var/wwwmhealth/bitrix/cache/social_pictures/3280e5f0698eb6e0faf0115cd6775844.jpg',
+  'type' => 'image/jpeg',
+)
+---finish
+---start
+MH_Social_Twitter::__set_state(array(
+   '_twitter' => 
+  Twitter_Twitter::__set_state(array(
+     'params' => 
+    array (
+    ),
+     'headers' => 
+    array (
+      'Authorization' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="8f433fd6e019b71ba74d9538fc6b20a9", oauth_signature="sVwdcLzArvlTIeqMqu7s0Wy1eKc%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343996939", oauth_version="1.0"',
+      'Expect' => '',
+    ),
+     'auto_fixed_time' => false,
+     'buffer' => NULL,
+     'config' => 
+    array (
+      'user_agent' => 'tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth',
+      'use_ssl' => true,
+      'host' => 'api.twitter.com',
+      'consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'consumer_secret' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ',
+      'user_token' => '',
+      'user_secret' => '',
+      'force_nonce' => false,
+      'nonce' => '8f433fd6e019b71ba74d9538fc6b20a9',
+      'force_timestamp' => false,
+      'timestamp' => 1343996939,
+      'oauth_version' => '1.0',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'curl_connecttimeout' => 30,
+      'curl_timeout' => 10,
+      'curl_ssl_verifyhost' => 2,
+      'curl_ssl_verifypeer' => true,
+      'curl_cainfo' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter/cacert.pem',
+      'curl_capath' => '/home/grom/mhealth/bitrix/php_interface/include/shared/Twitter',
+      'curl_followlocation' => false,
+      'curl_proxy' => false,
+      'curl_proxyuserpwd' => false,
+      'curl_encoding' => '',
+      'is_streaming' => false,
+      'streaming_eol' => '
+',
+      'streaming_metrics_interval' => 60,
+      'as_header' => true,
+      'debug' => false,
+      'multipart' => false,
+    ),
+     'method' => 'POST',
+     'url' => 'https://api.twitter.com/1/users/lookup.json',
+     'signing_params' => 'oauth_consumer_key=Qd39wEeD4CLhikrHBH76wA&oauth_nonce=8f433fd6e019b71ba74d9538fc6b20a9&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1343996939&oauth_version=1.0&user_id=296811615',
+     'auth_params' => 
+    array (
+      'oauth_consumer_key' => 'Qd39wEeD4CLhikrHBH76wA',
+      'oauth_nonce' => '8f433fd6e019b71ba74d9538fc6b20a9',
+      'oauth_signature' => 'sVwdcLzArvlTIeqMqu7s0Wy1eKc%3D',
+      'oauth_signature_method' => 'HMAC-SHA1',
+      'oauth_timestamp' => '1343996939',
+      'oauth_version' => '1.0',
+    ),
+     'request_params' => 'user_id=296811615',
+     'base_string' => 'POST&https%3A%2F%2Fapi.twitter.com%2F1%2Fusers%2Flookup.json&oauth_consumer_key%3DQd39wEeD4CLhikrHBH76wA%26oauth_nonce%3D8f433fd6e019b71ba74d9538fc6b20a9%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1343996939%26oauth_version%3D1.0%26user_id%3D296811615',
+     'signing_key' => 'dRXWI7QV8IozHXEWFVG58HHny2YFW2BRlswGdlAcXQ&',
+     'auth_header' => 'OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="8f433fd6e019b71ba74d9538fc6b20a9", oauth_signature="sVwdcLzArvlTIeqMqu7s0Wy1eKc%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343996939", oauth_version="1.0"',
+     'response' => 
+    array (
+      'headers' => 
+      array (
+        'date' => 'Fri, 03 Aug 2012 12:27:47 GMT',
+        'status' => '200 OK',
+        'expires' => 'Tue, 31 Mar 1981 05:00:00 GMT',
+        'x_transaction_mask' => 'a6183ffa5f8ca943ff1b53b5644ef114b59c93f4',
+        'x_warning' => 'Invalid OAuth credentials detected',
+        'x_mid' => 'c5c72f00673c1a50adca77d3c6afd17b8078356f',
+        'last_modified' => 'Fri, 03 Aug 2012 12:27:47 GMT',
+        'x_ratelimit_class' => 'api',
+        'x_frame_options' => 'SAMEORIGIN',
+        'x_ratelimit_remaining' => '120',
+        'x_ratelimit_limit' => '150',
+        'x_transaction' => '8d2c281e8de85860',
+        'etag' => '"30db1cfba69ba273ea4bf864f00f4d55"',
+        'x_runtime' => '0.06970',
+        'x_ratelimit_reset' => '1343998560',
+        'pragma' => 'no-cache',
+        'cache_control' => 'no-cache, no-store, must-revalidate, pre-check=0, post-check=0',
+        'content_type' => 'application/json; charset=utf-8',
+        'set_cookie' => '_twitter_sess=BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCDazdOw4AToMY3NyZl9p%250AZCIlNzVjYzQ1MDBjZjhhYjc4NmMwYzliOThjMGJjNjg2MDc6B2lkIiUyYzgz%250ANmQ2OWI5MTM0MDU1NWM2ZmI0ZmIwZDA5YjU1OA%253D%253D--8aae152103ee9c660004bfb4d44e63bc65b26f2d; domain=.twitter.com; path=/; HttpOnly',
+        'vary' => 'Accept-Encoding',
+        'content_encoding' => 'gzip',
+        'content_length' => '764',
+        'server' => 'tfe',
+      ),
+      'code' => 200,
+      'response' => '[{"id":296811615,"created_at":"Wed May 11 12:58:25 +0000 2011","friends_count":2,"profile_background_color":"C0DEED","show_all_inline_media":false,"profile_image_url":"http:\\/\\/a0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","follow_request_sent":null,"listed_count":0,"profile_background_image_url":"http:\\/\\/a0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","followers_count":4,"profile_link_color":"0084B4","verified":false,"utc_offset":null,"name":"\\u0420\\u043e\\u043c\\u0430\\u043d \\u0413\\u0430\\u043b\\u0435\\u0435\\u0432","location":"","is_translator":false,"notifications":null,"profile_use_background_image":true,"protected":false,"profile_text_color":"333333","default_profile_image":false,"lang":"ru","profile_background_image_url_https":"https:\\/\\/si0.twimg.com\\/images\\/themes\\/theme1\\/bg.png","favourites_count":0,"profile_sidebar_border_color":"C0DEED","description":"","screen_name":"RomanGaleev","id_str":"296811615","profile_background_tile":false,"time_zone":null,"profile_sidebar_fill_color":"DDEEF6","contributors_enabled":false,"status":{"favorited":false,"in_reply_to_status_id_str":"215451175347175424","coordinates":null,"geo":null,"in_reply_to_screen_name":"EnglishtownRu","in_reply_to_user_id_str":"305572158","id_str":"215455615840034816","contributors":null,"retweeted":false,"retweet_count":0,"in_reply_to_status_id":215451175347175424,"source":"web","created_at":"Wed Jun 20 14:46:36 +0000 2012","in_reply_to_user_id":305572158,"truncated":false,"id":215455615840034816,"place":null,"text":"@EnglishtownRu \\u0441\\u043f\\u0430\\u0441\\u0438\\u0431\\u043e, \\u0432\\u0441\\u0451 \\u0440\\u0430\\u0431\\u043e\\u0442\\u0430\\u0435\\u0442 :)"},"profile_image_url_https":"https:\\/\\/si0.twimg.com\\/profile_images\\/2459020007\\/f6f0fsto394lwtsvv7iu_normal.jpeg","geo_enabled":false,"following":null,"default_profile":true,"url":null,"statuses_count":5}]',
+      'info' => 
+      array (
+        'url' => 'https://api.twitter.com/1/users/lookup.json',
+        'content_type' => 'application/json; charset=utf-8',
+        'http_code' => 200,
+        'header_size' => 1349,
+        'request_size' => 513,
+        'filetime' => -1,
+        'ssl_verify_result' => 0,
+        'redirect_count' => 0,
+        'total_time' => 1.04557,
+        'namelookup_time' => 0.005773,
+        'connect_time' => 0.217236,
+        'pretransfer_time' => 0.759649,
+        'size_upload' => 17,
+        'size_download' => 764,
+        'speed_download' => 730,
+        'speed_upload' => 16,
+        'download_content_length' => 764,
+        'upload_content_length' => 17,
+        'starttransfer_time' => 1.044983,
+        'redirect_time' => 0,
+        'certinfo' => 
+        array (
+        ),
+        'request_header' => 'POST /1/users/lookup.json HTTP/1.1
+User-Agent: tmhOAuth 0.621+SSL - //github.com/themattharris/tmhOAuth
+Host: api.twitter.com
+Accept: */*
+Accept-Encoding: deflate, gzip
+Authorization: OAuth oauth_consumer_key="Qd39wEeD4CLhikrHBH76wA", oauth_nonce="8f433fd6e019b71ba74d9538fc6b20a9", oauth_signature="sVwdcLzArvlTIeqMqu7s0Wy1eKc%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1343996939", oauth_version="1.0"
+Content-Length: 17
+Content-Type: application/x-www-form-urlencoded
+
+',
+      ),
+      'error' => '',
+      'errno' => 0,
+    ),
+  )),
+   '_userId' => '296811615',
+   '_userInfo' => 
+  array (
+    'id' => 296811615,
+    'created_at' => 'Wed May 11 12:58:25 +0000 2011',
+    'friends_count' => 2,
+    'profile_background_color' => 'C0DEED',
+    'show_all_inline_media' => false,
+    'profile_image_url' => 'http://a0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'follow_request_sent' => NULL,
+    'listed_count' => 0,
+    'profile_background_image_url' => 'http://a0.twimg.com/images/themes/theme1/bg.png',
+    'followers_count' => 4,
+    'profile_link_color' => '0084B4',
+    'verified' => false,
+    'utc_offset' => NULL,
+    'name' => 'Роман Галеев',
+    'location' => '',
+    'is_translator' => false,
+    'notifications' => NULL,
+    'profile_use_background_image' => true,
+    'protected' => false,
+    'profile_text_color' => '333333',
+    'default_profile_image' => false,
+    'lang' => 'ru',
+    'profile_background_image_url_https' => 'https://si0.twimg.com/images/themes/theme1/bg.png',
+    'favourites_count' => 0,
+    'profile_sidebar_border_color' => 'C0DEED',
+    'description' => '',
+    'screen_name' => 'RomanGaleev',
+    'id_str' => '296811615',
+    'profile_background_tile' => false,
+    'time_zone' => NULL,
+    'profile_sidebar_fill_color' => 'DDEEF6',
+    'contributors_enabled' => false,
+    'status' => 
+    array (
+      'favorited' => false,
+      'in_reply_to_status_id_str' => '215451175347175424',
+      'coordinates' => NULL,
+      'geo' => NULL,
+      'in_reply_to_screen_name' => 'EnglishtownRu',
+      'in_reply_to_user_id_str' => '305572158',
+      'id_str' => '215455615840034816',
+      'contributors' => NULL,
+      'retweeted' => false,
+      'retweet_count' => 0,
+      'in_reply_to_status_id' => 2.1545117534718E+17,
+      'source' => 'web',
+      'created_at' => 'Wed Jun 20 14:46:36 +0000 2012',
+      'in_reply_to_user_id' => 305572158,
+      'truncated' => false,
+      'id' => 2.1545561584003E+17,
+      'place' => NULL,
+      'text' => '@EnglishtownRu спасибо, всё работает :)',
+    ),
+    'profile_image_url_https' => 'https://si0.twimg.com/profile_images/2459020007/f6f0fsto394lwtsvv7iu_normal.jpeg',
+    'geo_enabled' => false,
+    'following' => NULL,
+    'default_profile' => true,
+    'url' => NULL,
+    'statuses_count' => 5,
+  ),
+   '_picture' => NULL,
+))
+buser array (
+  'ID' => '6',
+  'USER_ID' => '810675',
+  'ALIAS' => NULL,
+  'DESCRIPTION' => NULL,
+  'AVATAR' => '872273',
+  'INTERESTS' => NULL,
+  'ALLOW_POST' => 'Y',
+  'LAST_VISIT' => NULL,
+  'DATE_REG' => '00.00.0000 00:00:00',
+)
+---finish

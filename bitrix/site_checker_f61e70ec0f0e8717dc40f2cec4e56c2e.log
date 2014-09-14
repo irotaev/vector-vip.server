@@ -1,0 +1,171 @@
+2013-Apr-24 02:23:09 Наличие необходимых модулей php (check_php_modules): Ok
+Успешно
+2013-Apr-24 02:23:10 Обязательные параметры PHP (check_php_settings): Ok
+Успешно
+2013-Apr-24 02:23:10 Значения переменных сервера (check_server_vars): Ok
+Успешно
+2013-Apr-24 02:23:10 Модуль suhosin отключен (check_suhosin): Ok
+Успешно
+2013-Apr-24 02:23:10 Модули веб сервера (check_security): Ok
+Успешно
+2013-Apr-24 02:23:10 Служебные скрипты в корне сайта (check_install_scripts): Ok
+Успешно
+2013-Apr-24 02:23:10 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Ok
+Успешно. Сайт работает в UTF кодировке
+2013-Apr-24 02:23:10 Установка параметра pcre.backtrack_limit (check_backtrack_limit): Ok
+Успешно
+2013-Apr-24 02:23:10 Размер стека и pcre.recursion_limit (check_pcre_recursion): Warning
+Возможны проблемы в работе с длинными строками из-за системных ограничений
+2013-Apr-24 02:23:10 Вызов method_exists на строке (check_method_exists): Ok
+Успешно
+2013-Apr-24 02:23:10 Настройки сайтов (check_sites): Ok
+Успешно
+2013-Apr-24 02:23:10 Работа с сокетами (check_socket): Ok
+Connection to www.vector-vip.ru:80
+Успешно
+2013-Apr-24 02:23:10 Лишний вывод в файлах конфигурации (check_dbconn): Ok
+Успешно
+2013-Apr-24 02:23:10 Загрузка файла (check_upload): Ok
+Успешно
+2013-Apr-24 02:23:10 Загрузка файла больше 4Мб (check_upload_big): Ok
+Успешно
+2013-Apr-24 02:23:10 Загрузка файла через php://input (check_upload_raw): Ok
+Успешно
+2013-Apr-24 02:23:10 Передача POST запроса с большим числом параметров (check_post): Ok
+Успешно
+2013-Apr-24 02:23:10 Отправка почты (check_mail): Ok
+Успешно
+2013-Apr-24 02:23:10 Отправка почтового сообщения больше 64Кб (check_mail_big): Ok
+Успешно
+2013-Apr-24 02:23:10 Проверка на наличие неотправленных сообщений (check_mail_b_event): Ok
+Успешно
+2013-Apr-24 02:23:11 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+50% done
+2013-Apr-24 02:23:11 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+Успешно
+2013-Apr-24 02:23:11 Фактическое ограничение памяти (check_memory_limit): Ok
+14% done
+2013-Apr-24 02:23:11 Фактическое ограничение памяти (check_memory_limit): Ok
+28% done
+2013-Apr-24 02:23:11 Фактическое ограничение памяти (check_memory_limit): Ok
+42% done
+2013-Apr-24 02:23:11 Фактическое ограничение памяти (check_memory_limit): Ok
+57% done
+2013-Apr-24 02:23:11 Фактическое ограничение памяти (check_memory_limit): Ok
+71% done
+
+== Request ==
+GET /bitrix/admin/site_checker.php?test_type=memory_test&unique_id=560eefd65ced742a006c224ce8111ace&max=255 HTTP/1.1
+Host: www.vector-vip.ru
+
+
+== Response ==
+HTTP/1.1 200 OK
+Date: Tue, 23 Apr 2013 22:23:11 GMT
+Server: Apache/2.2.15 (Red Hat) mod_rpaf/0.6 PHP/5.3.21
+X-Powered-By: PHP/5.3.21
+Content-Length: 177
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+== Body ==
+
+Fatal error: Allowed memory size of 268435456 bytes exhausted (tried to allocate 1048577 bytes) in /home/srv35659/htdocs/bitrix/modules/main/admin/site_checker.php on line 111
+
+==========
+2013-Apr-24 02:23:11 Фактическое ограничение памяти (check_memory_limit): Ok
+85% done
+2013-Apr-24 02:23:11 Фактическое ограничение памяти (check_memory_limit): Ok
+
+== Request ==
+GET /bitrix/admin/site_checker.php?test_type=memory_test&unique_id=560eefd65ced742a006c224ce8111ace&max=383 HTTP/1.1
+Host: www.vector-vip.ru
+
+
+== Response ==
+HTTP/1.1 200 OK
+Date: Tue, 23 Apr 2013 22:23:11 GMT
+Server: Apache/2.2.15 (Red Hat) mod_rpaf/0.6 PHP/5.3.21
+X-Powered-By: PHP/5.3.21
+Content-Length: 177
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+== Body ==
+
+Fatal error: Allowed memory size of 268435456 bytes exhausted (tried to allocate 1048577 bytes) in /home/srv35659/htdocs/bitrix/modules/main/admin/site_checker.php on line 111
+
+==========
+Не менее 192 М
+2013-Apr-24 02:23:11 Сохранение сессии (check_session): Ok
+50% done
+2013-Apr-24 02:23:11 Сохранение сессии (check_session): Ok
+Успешно
+2013-Apr-24 02:23:11 Сохранение сессии без UserAgent (check_session_ua): Ok
+50% done
+2013-Apr-24 02:23:11 Сохранение сессии без UserAgent (check_session_ua): Ok
+Успешно
+2013-Apr-24 02:23:11 Работа с файлами кеша (check_cache): Ok
+Успешно
+2013-Apr-24 02:23:12 Доступ к серверу обновлений (check_update): Ok
+Успешно
+2013-Apr-24 02:23:12 HTTP авторизация (check_http_auth): Ok
+Успешно
+2013-Apr-24 02:23:12 Создание и запуск файла (check_exec): Ok
+Успешно
+2013-Apr-24 02:23:12 Константа BX_CRONTAB (не должна быть определена) (check_bx_crontab): Ok
+Успешно
+2013-Apr-24 02:23:12 Разделитель дробной части (check_divider): Ok
+Успешно
+2013-Apr-24 02:23:12 Значение параметра precision (не менее 10) (check_precision): Ok
+Успешно
+2013-Apr-24 02:23:12 Передача объектов по ссылке (check_clone): Ok
+Успешно
+2013-Apr-24 02:23:12 Функция getimagesize для swf (check_getimagesize): Ok
+Успешно
+2013-Apr-24 02:23:12 Версия MySQL сервера (check_mysql_bug_version): Ok
+Успешно
+2013-Apr-24 02:23:13 Время на БД и веб сервере (check_mysql_time): Ok
+Успешно
+2013-Apr-24 02:23:13 Режим работы MySQL (check_mysql_mode): Ok
+Успешно
+2013-Apr-24 02:23:13 Значение auto_increment в MySQL (check_mysql_increment): Ok
+Успешно
+2013-Apr-24 02:23:13 Кодировка соединения (check_mysql_connection_charset): Ok
+character_set_connection=utf8, collation_connection=utf8_unicode_ci, character_set_results=utf8
+Успешно
+2013-Apr-24 02:23:13 Кодировка базы данных (check_mysql_db_charset): Ok
+CHARSET=utf8, COLLATION=utf8_unicode_ci
+Успешно
+2013-Apr-24 02:23:13 Кодировки таблиц в БД (check_mysql_table_charset): Ok
+Успешно
+2013-Apr-24 02:23:13 Структура базы данных (check_mysql_table_structure): Ok
+0% done
+2013-Apr-24 02:23:14 Структура базы данных (check_mysql_table_structure): Ok
+7% done
+2013-Apr-24 02:23:14 Структура базы данных (check_mysql_table_structure): Ok
+14% done
+2013-Apr-24 02:23:14 Структура базы данных (check_mysql_table_structure): Ok
+21% done
+2013-Apr-24 02:23:14 Структура базы данных (check_mysql_table_structure): Ok
+28% done
+2013-Apr-24 02:23:14 Структура базы данных (check_mysql_table_structure): Ok
+35% done
+2013-Apr-24 02:23:14 Структура базы данных (check_mysql_table_structure): Ok
+42% done
+2013-Apr-24 02:23:14 Структура базы данных (check_mysql_table_structure): Ok
+50% done
+2013-Apr-24 02:23:14 Структура базы данных (check_mysql_table_structure): Ok
+57% done
+2013-Apr-24 02:23:15 Структура базы данных (check_mysql_table_structure): Ok
+64% done
+2013-Apr-24 02:23:15 Структура базы данных (check_mysql_table_structure): Ok
+71% done
+2013-Apr-24 02:23:15 Структура базы данных (check_mysql_table_structure): Ok
+78% done
+2013-Apr-24 02:23:15 Структура базы данных (check_mysql_table_structure): Ok
+85% done
+2013-Apr-24 02:23:15 Структура базы данных (check_mysql_table_structure): Ok
+92% done
+2013-Apr-24 02:23:15 Структура базы данных (check_mysql_table_structure): Ok
+Успешно

@@ -1,0 +1,225 @@
+@mixin info {
+  color: white;
+  font-size: 14px;
+  font-family: tahoma;
+}
+$top-zindex: 1000;
+// Colors
+$red: #ff0000;
+$dark-red: #750a0a;
+$header-red: #A82727;
+$border-color: #cdcdcd;
+$border-av-block-color: #474747;
+$_grey: #1C1C1C;
+$text-grey: #555555;
+$text-l-grey: #918f8f;
+$av-block-bg: #252525;
+$av-content-bg: #151617;
+// Text sizes
+$small: 10px;
+@mixin news-block {
+  width: 156px;
+  height: 152px;
+  margin-bottom: 10px;
+  background: url(../img/shared/news-block/news-block-bg.png) center top no-repeat;
+  padding: 0 18px 18px 18px;
+  color: white;
+  border-top: 1px solid #333333;
+  margin: {left: auto; right: auto;}
+
+  header {
+    @include info;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+}
+
+@mixin main-text {
+  @include info;
+  font-size: 12px;
+}
+
+@mixin main-menu-btn {
+  background-color: #202020;
+  width: 262px;
+  height: 60px;
+  border: 1px solid #37383C;
+  border-radius: 5px;
+  box-shadow: 0px 0px 7px 0px #000;
+
+  &:hover {
+    background-image: url(../img/header/main-menu-bg-hover.png);
+  }
+
+  a {
+    padding: 5px 0 5px 80px;
+    text-align: left;
+    color: $border-color;
+    font-size: 25px;
+    font-family: impact;
+    line-height: 50px;
+    display: block;
+  }
+
+  .submenu a {
+    padding: 0;
+  }
+}
+
+// Хлебные крошки
+@mixin breadcrumbs($bg-color, $arrowThick: 2px, $blockHeight: 40px, $startZindex: 10) {
+  position: relative;
+  margin: 0;
+  padding: 7px;
+
+  .bc-block {
+    position: relative;
+    float: left;
+    height: $blockHeight;
+    border: $arrowThick solid $border-av-block-color;
+    background-color: $av-content-bg;
+    margin-right: $arrowThick + 8px;
+    padding-left: $blockHeight/2 + $arrowThick  + 5px;
+    @include opacity(0.6);
+    color: white;
+
+    .link {
+      line-height: $blockHeight;
+    }
+
+    &.active {
+      background-color: $dark-red;
+      @include opacity(1);
+
+      .right-strelka-bg {
+        border-left-color: $dark-red;
+      }
+    }
+  }
+
+  a {
+    &:first-child {
+      .left-strelka, .left-strelka-bg {display: none;}
+      .bc-block {padding-left: 5px;}
+    }
+
+    &:hover {
+      .bc-block {@include opacity(1);}
+    }
+  }
+
+  // Костыль (!DELETE!), который накладывает стрелки друг на друга.
+  // Не больше 10 breadcrumbs - хватитЮ иначе плохо для seo1
+  .bc-block-1 {z-index: $startZindex;}
+  .bc-block-2 {z-index: $startZindex - 1;}
+  .bc-block-3 {z-index: $startZindex - 2;}
+  .bc-block-4 {z-index: $startZindex - 3;}
+  .bc-block-5 {z-index: $startZindex - 4;}
+  .bc-block-6 {z-index: $startZindex - 5;}
+  .bc-block-7 {z-index: $startZindex - 6;}
+  .bc-block-8 {z-index: $startZindex - 7;}
+  .bc-block-9 {z-index: $startZindex - 8;}
+  .bc-block-10 {z-index: $startZindex - 9;}
+
+  .left-strelka, .right-strelka {
+    position: absolute;
+    top: -$arrowThick;
+    height: 0;
+    width: 0;
+    border-color: transparent transparent transparent $border-av-block-color;
+    border-style: solid;
+    border-width: $blockHeight/2 + $arrowThick;
+    z-index: $startZindex;
+  }
+  .left-strelka {left: 0;}
+  .right-strelka {right: -($blockHeight + 3*$arrowThick);}
+
+  .left-strelka-bg, .right-strelka-bg {
+    position: absolute;
+    top: 0;
+    height: 0;
+    width: 0;
+    border-color: transparent transparent transparent $bg-color;
+    border-style: solid;
+    border-width: $blockHeight/2;
+    z-index: $startZindex + 1;
+  }
+  .right-strelka-bg {right: -$blockHeight;}
+  .left-strelka-bg {left: -$arrowThick; border-left-color: $av-block-bg;}
+}
+
+/* Основные элементы
+*********************************************************************************/
+.info {@include info;}
+a {color: white;}
+.header {
+  @include info;
+  font-size: 18px;
+  background: url(../img/shared/header-strelka.png) left no-repeat;
+  color: $red;
+  padding-left: 18px;
+}
+::selection {
+  background: #e20000;
+}
+.clear-both {clear: both;}
+
+// Стилистика основного контентного блока
+.av-block {
+  border: 1px solid #474747;
+  border-radius: 5px;
+  padding: 7px 7px 0;
+  margin: 0 0 8px;
+  background-color: $av-block-bg;
+
+  .av-header {
+    height: 20px;
+    line-height: 20px;
+    background: url(../img/shared/header-strelka.png) left no-repeat;
+    background-position: 10px 12px;
+
+    span {
+      padding-left: 20px;
+      color: $header-red;
+      &::selection {background: white;}
+      font-size: 18px;
+      font-weight: bold;
+    }
+  }
+
+  .av-content, .av-header, .av-preview {
+    border: 1px solid #474747;
+    border-radius: 5px;
+    padding: 7px;
+    margin: 0 0 8px;
+    background-color: $av-content-bg;
+  }
+
+  .av-preview {
+    padding-top: 0;
+    padding: {left: 0; right: 0};
+
+    .header {
+      background-image: none;
+      padding: 7px;
+      border-bottom: 1px solid #474747;
+      color: $header-red;
+    }
+
+    .av-content {
+      padding: 7px;
+      border: none;
+    }
+  }
+}
+
+input[type="text"], input[type="password"] {
+  border: 2px solid transparent;
+  padding-left: 4px;
+  &:focus {border-color: $dark-red;}
+}
+
+.height-clear {
+  clear: both;
+}

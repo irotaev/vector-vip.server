@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /bitrix/
+Disallow: /*index.php$
+
+Host: www.vector-vip.ru
+Sitemap: http://www.vector-vip.ru/sitemap.xml

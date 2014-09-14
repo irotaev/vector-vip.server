@@ -1,0 +1,8 @@
+#example{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+#example h2.titles{font-size: 16px;color: Green}
+#example p{
+	line-height: 12px;
+	font-size: 11px;	
+}
