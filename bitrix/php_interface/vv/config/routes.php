@@ -16,7 +16,6 @@ $routes = array(
     // из-за СУЩЕСТВУЮЩЕЙ папки /services/ пришлось закоментить -d  на правиле в
     // htaccess, из-за этого не вызывался index.php в корне
     'index'         => array(
-        //'rule'          => '^/(index_banner(2)?\.php)?$',
         'rule'          => '^/$',
         'module'        => 'index',
     ),

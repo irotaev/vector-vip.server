@@ -25,8 +25,6 @@ if ($route) { // ���� ������
         ); 
         require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php"); 
     }
-    
-    
 } else { // �� ������, �������� ��������
     require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_before.php");
     include($_SERVER['DOCUMENT_ROOT'] . '/bitrix/urlrewrite.php');
